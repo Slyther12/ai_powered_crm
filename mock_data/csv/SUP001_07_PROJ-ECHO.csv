@@ -1,0 +1,25 @@
+QUOTATION,SUP001-PROJ-ECHO-Q007
+Supplier,Shree Metals & Alloys Pvt Ltd
+Contact,Rajesh Kumar
+Email,rajesh@shreemetals.in
+Date,2024-09-30
+Valid Until,2024-10-07
+Project,Project Echo
+Project ID,PROJ-ECHO
+Currency,INR
+Payment Terms,30% advance, 70% against delivery
+Delivery Days,21
+
+SNo,Description,Unit,Quantity,Unit Price,Amount
+1,Sand Fine River Grade,CFT,836,54.33,45419.88
+2,OPC 53 Grade Cement,BAG,309,382.36,118149.24
+3,Scaffolding Erection Labour,SQM,95.7,94.75,9067.58
+4,M20 Grade Concrete (RMC),CUM,55.7,6040.33,336446.38
+5,TMT Bar Fe500D 12mm,MT,24.08,68016.41,1637835.15
+6,Waterproofing Coat (2 layer),SQM,24.4,188.96,4610.62
+7,Rock Wool Slab 100mm 128kg/m3,SQM,109.0,707.24,77089.16
+8,Aluminium Cladding 0.5mm Stucco,SQM,103.6,427.48,44286.93
+,,,,,
+,,,,Sub-Total,2272904.94
+,,,,GST 18%,409122.89
+,,,,Grand Total,2682027.83

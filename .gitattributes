@@ -1,0 +1,9 @@
+# Tell Git to treat these as binary files (prevents line ending conversion and corruption)
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.xlsx binary
+
+# Ensure standard text files keep correct line endings across OSes
+* text=auto

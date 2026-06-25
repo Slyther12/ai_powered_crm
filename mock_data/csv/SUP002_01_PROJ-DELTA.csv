@@ -1,0 +1,23 @@
+QUOTATION,SUP002-PROJ-DELTA-Q001
+Supplier,Apex Fasteners & Hardware Co.
+Contact,Priya Sharma
+Email,priya.s@apexfasteners.com
+Date,2024-08-06
+Valid Until,2024-09-20
+Project,Project Delta
+Project ID,PROJ-DELTA
+Currency,INR
+Payment Terms,Net 45 days from invoice date
+Delivery Days,14
+
+SNo,Description,Unit,Quantity,Unit Price,Amount
+1,Overhaul Labour (Rotating Equip),MH,153,575.53,88056.09
+2,Alignment Laser Shaft Service,NOS,23,11153.39,256527.97
+3,Shaft Seal Ring 60x80x10,NOS,23,331.18,7617.14
+4,Vibration Analysis Service,NOS,38,7341.4,278973.2
+5,V-Belt A Section Set,SET,4,1112.19,4448.76
+6,Coupling Fluid 90mm Bore,NOS,12,12969.74,155636.88
+,,,,,
+,,,,Sub-Total,791260.04
+,,,,GST 18%,142426.81
+,,,,Grand Total,933686.85

@@ -1,0 +1,21 @@
+QUOTATION,SUP008-PROJ-ECHO-Q007
+Supplier,PrimeCast Foundry & Forge
+Contact,Ganesh Reddy
+Email,ganesh.r@primecast.in
+Date,2024-10-18
+Valid Until,2024-10-25
+Project,Project Echo
+Project ID,PROJ-ECHO
+Currency,INR
+Payment Terms,Net 30 days from invoice date
+Delivery Days,35
+
+SNo,Description,Unit,Quantity,Unit Price,Amount
+1,Sand Fine River Grade,CFT,632,51.93,32819.76
+2,M20 Grade Concrete (RMC),CUM,16.1,5411.9,87131.59
+3,PUF Panel 60mm Cold Room,SQM,160.3,1690.88,271048.06
+4,Civil Foundation Works (LS),LS,1,113072.42,113072.42
+,,,,,
+,,,,Sub-Total,504071.83
+,,,,GST 18%,90732.93
+,,,,Grand Total,594804.76

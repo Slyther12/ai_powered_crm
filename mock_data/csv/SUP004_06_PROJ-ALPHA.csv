@@ -1,0 +1,25 @@
+QUOTATION,SUP004-PROJ-ALPHA-Q006
+Supplier,TechnoFab Engineering Works
+Contact,Amit Desai
+Email,amit@technofab.co.in
+Date,2024-10-15
+Valid Until,2024-10-22
+Project,Project Alpha
+Project ID,PROJ-ALPHA
+Currency,INR
+Payment Terms,100% against pro-forma invoice
+Delivery Days,45
+
+SNo,Description,Unit,Quantity,Unit Price,Amount
+1,Grating Platform 25x3 Serrated,SQM,114.6,3908.79,447947.33
+2,MS I-Beam 200mm (ISMB 200),MT,17.64,111762.84,1971496.5
+3,Primer & Painting (2 coat),SQM,47.5,171.32,8137.7
+4,Structural Steel Fabrication Labour,MT,7.76,25332.2,196577.87
+5,MS Channel 150x75mm,MT,15.35,103587.94,1590074.88
+6,MS Plate 8mm IS 2062 E250,MT,6.85,96571.32,661513.54
+7,MS Plate 6mm IS 2062 E250,MT,20.57,94330.65,1940381.47
+8,MS Angle 65x65x6mm,MT,5.3,99758.11,528717.98
+,,,,,
+,,,,Sub-Total,7344847.27
+,,,,GST 18%,1322072.51
+,,,,Grand Total,8666919.78

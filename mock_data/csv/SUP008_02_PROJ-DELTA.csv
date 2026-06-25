@@ -1,0 +1,21 @@
+QUOTATION,SUP008-PROJ-DELTA-Q002
+Supplier,PrimeCast Foundry & Forge
+Contact,Ganesh Reddy
+Email,ganesh.r@primecast.in
+Date,2024-08-17
+Valid Until,2024-08-24
+Project,Project Delta
+Project ID,PROJ-DELTA
+Currency,INR
+Payment Terms,50% advance, 50% on completion
+Delivery Days,35
+
+SNo,Description,Unit,Quantity,Unit Price,Amount
+1,Mechanical Seal Type 502 50mm,NOS,24,3385.93,81262.32
+2,Overhaul Labour (Rotating Equip),MH,43,595.36,25600.48
+3,Alignment Laser Shaft Service,NOS,13,10645.6,138392.8
+4,Vibration Analysis Service,NOS,2,7565.04,15130.08
+,,,,,
+,,,,Sub-Total,260385.68
+,,,,GST 18%,46869.42
+,,,,Grand Total,307255.10

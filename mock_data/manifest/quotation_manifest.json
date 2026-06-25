@@ -1,0 +1,3226 @@
+[
+  {
+    "doc_id": "DOC-001",
+    "doc_no": "SUP001-PROJ-ALPHA-Q001",
+    "format": "pdf_formal",
+    "supplier_id": "SUP001",
+    "supplier_name": "Shree Metals & Alloys Pvt Ltd",
+    "project_id": "PROJ-ALPHA",
+    "project_name": "Project Alpha",
+    "project_category": "Structural Fabrication",
+    "doc_date": "2024-08-01",
+    "validity_days": 60,
+    "payment_terms": "30% advance, 70% against delivery",
+    "currency": "INR",
+    "total_excl_tax": 3341961.97,
+    "total_incl_tax": 3943515.12,
+    "line_item_count": 4,
+    "file_path": "./mock_data/pdf/SUP001_01_PROJ-ALPHA.pdf",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "MS Channel 150x75mm",
+        "unit": "MT",
+        "qty": 18.94,
+        "unit_price": 72929.12,
+        "amount": 1381277.53
+      },
+      {
+        "desc": "MS Angle 65x65x6mm",
+        "unit": "MT",
+        "qty": 6.57,
+        "unit_price": 74363.94,
+        "amount": 488571.09
+      },
+      {
+        "desc": "Anchor Bolts M20x400 Grade 8.8",
+        "unit": "NOS",
+        "qty": 15,
+        "unit_price": 87.07,
+        "amount": 1306.05
+      },
+      {
+        "desc": "MS Plate 8mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 20.56,
+        "unit_price": 71537.32,
+        "amount": 1470807.3
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-002",
+    "doc_no": "SUP001-PROJ-ALPHA-Q002",
+    "format": "xlsx",
+    "supplier_id": "SUP001",
+    "supplier_name": "Shree Metals & Alloys Pvt Ltd",
+    "project_id": "PROJ-ALPHA",
+    "project_name": "Project Alpha",
+    "project_category": "Structural Fabrication",
+    "doc_date": "2024-08-09",
+    "validity_days": 7,
+    "payment_terms": "LC at sight",
+    "currency": "INR",
+    "total_excl_tax": 4518659.45,
+    "total_incl_tax": 5332018.15,
+    "line_item_count": 5,
+    "file_path": "./mock_data/xlsx/SUP001_02_PROJ-ALPHA.xlsx",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "MS Channel 150x75mm",
+        "unit": "MT",
+        "qty": 10.74,
+        "unit_price": 73231.97,
+        "amount": 786511.36
+      },
+      {
+        "desc": "MS Plate 8mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 16.6,
+        "unit_price": 73209.97,
+        "amount": 1215285.5
+      },
+      {
+        "desc": "MS Angle 65x65x6mm",
+        "unit": "MT",
+        "qty": 19.85,
+        "unit_price": 71879.11,
+        "amount": 1426800.33
+      },
+      {
+        "desc": "Structural Steel Fabrication Labour",
+        "unit": "MT",
+        "qty": 17.08,
+        "unit_price": 18914.47,
+        "amount": 323059.15
+      },
+      {
+        "desc": "MS Plate 6mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 11.19,
+        "unit_price": 68543.62,
+        "amount": 767003.11
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-003",
+    "doc_no": "SUP001-PROJ-ALPHA-Q003",
+    "format": "pdf_formal",
+    "supplier_id": "SUP001",
+    "supplier_name": "Shree Metals & Alloys Pvt Ltd",
+    "project_id": "PROJ-ALPHA",
+    "project_name": "Project Alpha",
+    "project_category": "Structural Fabrication",
+    "doc_date": "2024-08-19",
+    "validity_days": 30,
+    "payment_terms": "Net 30 days from invoice date",
+    "currency": "INR",
+    "total_excl_tax": 3563961.69,
+    "total_incl_tax": 4205474.8,
+    "line_item_count": 8,
+    "file_path": "./mock_data/pdf/SUP001_03_PROJ-ALPHA.pdf",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "Primer & Painting (2 coat)",
+        "unit": "SQM",
+        "qty": 48.5,
+        "unit_price": 119.62,
+        "amount": 5801.57
+      },
+      {
+        "desc": "Anchor Bolts M20x400 Grade 8.8",
+        "unit": "NOS",
+        "qty": 14,
+        "unit_price": 83.31,
+        "amount": 1166.34
+      },
+      {
+        "desc": "MS Channel 150x75mm",
+        "unit": "MT",
+        "qty": 10.35,
+        "unit_price": 79351.4,
+        "amount": 821286.99
+      },
+      {
+        "desc": "Grating Platform 25x3 Serrated",
+        "unit": "SQM",
+        "qty": 138.8,
+        "unit_price": 2950.09,
+        "amount": 409472.49
+      },
+      {
+        "desc": "MS Plate 6mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 19.37,
+        "unit_price": 66351.84,
+        "amount": 1285235.14
+      },
+      {
+        "desc": "MS I-Beam 200mm (ISMB 200)",
+        "unit": "MT",
+        "qty": 2.48,
+        "unit_price": 76157.42,
+        "amount": 188870.4
+      },
+      {
+        "desc": "MS Plate 12mm IS 2062 E350",
+        "unit": "MT",
+        "qty": 7.47,
+        "unit_price": 73048.13,
+        "amount": 545669.53
+      },
+      {
+        "desc": "MS Angle 65x65x6mm",
+        "unit": "MT",
+        "qty": 4.23,
+        "unit_price": 72448.99,
+        "amount": 306459.23
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-004",
+    "doc_no": "SUP001-PROJ-CHARLIE-Q004",
+    "format": "pdf_formal",
+    "supplier_id": "SUP001",
+    "supplier_name": "Shree Metals & Alloys Pvt Ltd",
+    "project_id": "PROJ-CHARLIE",
+    "project_name": "Project Charlie",
+    "project_category": "Fluid Systems",
+    "doc_date": "2024-08-26",
+    "validity_days": 90,
+    "payment_terms": "30% advance, 70% against delivery",
+    "currency": "INR",
+    "total_excl_tax": 782676.89,
+    "total_incl_tax": 923558.73,
+    "line_item_count": 5,
+    "file_path": "./mock_data/pdf/SUP001_04_PROJ-CHARLIE.pdf",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "Ball Valve 3-Piece 1 inch SS316",
+        "unit": "NOS",
+        "qty": 17,
+        "unit_price": 2960.19,
+        "amount": 50323.23
+      },
+      {
+        "desc": "Insulation 50mm Rock Wool Pipe",
+        "unit": "MTR",
+        "qty": 484,
+        "unit_price": 381.56,
+        "amount": 184675.04
+      },
+      {
+        "desc": "Gasket Spiral Wound 2 inch 316SS",
+        "unit": "NOS",
+        "qty": 31,
+        "unit_price": 613.55,
+        "amount": 19020.05
+      },
+      {
+        "desc": "MS ERW Pipe 4 inch Sch 40",
+        "unit": "MTR",
+        "qty": 426,
+        "unit_price": 1181.0,
+        "amount": 503106.0
+      },
+      {
+        "desc": "Hydro Testing & Commissioning",
+        "unit": "LS",
+        "qty": 1,
+        "unit_price": 25552.57,
+        "amount": 25552.57
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-005",
+    "doc_no": "SUP001-PROJ-CHARLIE-Q005",
+    "format": "xlsx",
+    "supplier_id": "SUP001",
+    "supplier_name": "Shree Metals & Alloys Pvt Ltd",
+    "project_id": "PROJ-CHARLIE",
+    "project_name": "Project Charlie",
+    "project_category": "Fluid Systems",
+    "doc_date": "2024-09-05",
+    "validity_days": 45,
+    "payment_terms": "30% advance, 70% against delivery",
+    "currency": "INR",
+    "total_excl_tax": 805416.27,
+    "total_incl_tax": 950391.2,
+    "line_item_count": 7,
+    "file_path": "./mock_data/xlsx/SUP001_05_PROJ-CHARLIE.xlsx",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "Insulation 50mm Rock Wool Pipe",
+        "unit": "MTR",
+        "qty": 117,
+        "unit_price": 386.99,
+        "amount": 45277.83
+      },
+      {
+        "desc": "Hydro Testing & Commissioning",
+        "unit": "LS",
+        "qty": 1,
+        "unit_price": 24930.66,
+        "amount": 24930.66
+      },
+      {
+        "desc": "Pressure Gauge 0-16bar Glycerine",
+        "unit": "NOS",
+        "qty": 35,
+        "unit_price": 833.33,
+        "amount": 29166.55
+      },
+      {
+        "desc": "Gate Valve PN16 2 inch SS Body",
+        "unit": "NOS",
+        "qty": 11,
+        "unit_price": 4569.69,
+        "amount": 50266.59
+      },
+      {
+        "desc": "MS ERW Pipe 4 inch Sch 40",
+        "unit": "MTR",
+        "qty": 483,
+        "unit_price": 1269.82,
+        "amount": 613323.06
+      },
+      {
+        "desc": "Pipe Fittings SS 2 inch (Lot)",
+        "unit": "LOT",
+        "qty": 1,
+        "unit_price": 18343.86,
+        "amount": 18343.86
+      },
+      {
+        "desc": "Gasket Spiral Wound 2 inch 316SS",
+        "unit": "NOS",
+        "qty": 37,
+        "unit_price": 651.56,
+        "amount": 24107.72
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-006",
+    "doc_no": "SUP001-PROJ-ALPHA-Q006",
+    "format": "pdf_formal",
+    "supplier_id": "SUP001",
+    "supplier_name": "Shree Metals & Alloys Pvt Ltd",
+    "project_id": "PROJ-ALPHA",
+    "project_name": "Project Alpha",
+    "project_category": "Structural Fabrication",
+    "doc_date": "2024-09-15",
+    "validity_days": 60,
+    "payment_terms": "50% advance, 50% on completion",
+    "currency": "INR",
+    "total_excl_tax": 3859984.83,
+    "total_incl_tax": 4554782.1,
+    "line_item_count": 4,
+    "file_path": "./mock_data/pdf/SUP001_06_PROJ-ALPHA.pdf",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "MS I-Beam 200mm (ISMB 200)",
+        "unit": "MT",
+        "qty": 19.24,
+        "unit_price": 81291.69,
+        "amount": 1564052.12
+      },
+      {
+        "desc": "Anchor Bolts M20x400 Grade 8.8",
+        "unit": "NOS",
+        "qty": 17,
+        "unit_price": 83.98,
+        "amount": 1427.66
+      },
+      {
+        "desc": "Structural Steel Fabrication Labour",
+        "unit": "MT",
+        "qty": 23.12,
+        "unit_price": 18860.25,
+        "amount": 436048.98
+      },
+      {
+        "desc": "MS Channel 150x75mm",
+        "unit": "MT",
+        "qty": 24.24,
+        "unit_price": 76668.98,
+        "amount": 1858456.08
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-007",
+    "doc_no": "SUP001-PROJ-ECHO-Q007",
+    "format": "csv",
+    "supplier_id": "SUP001",
+    "supplier_name": "Shree Metals & Alloys Pvt Ltd",
+    "project_id": "PROJ-ECHO",
+    "project_name": "Project Echo",
+    "project_category": "Civil & Insulation",
+    "doc_date": "2024-09-30",
+    "validity_days": 7,
+    "payment_terms": "30% advance, 70% against delivery",
+    "currency": "INR",
+    "total_excl_tax": 2272904.94,
+    "total_incl_tax": 2682027.83,
+    "line_item_count": 8,
+    "file_path": "./mock_data/csv/SUP001_07_PROJ-ECHO.csv",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "Sand Fine River Grade",
+        "unit": "CFT",
+        "qty": 836,
+        "unit_price": 54.33,
+        "amount": 45419.88
+      },
+      {
+        "desc": "OPC 53 Grade Cement",
+        "unit": "BAG",
+        "qty": 309,
+        "unit_price": 382.36,
+        "amount": 118149.24
+      },
+      {
+        "desc": "Scaffolding Erection Labour",
+        "unit": "SQM",
+        "qty": 95.7,
+        "unit_price": 94.75,
+        "amount": 9067.58
+      },
+      {
+        "desc": "M20 Grade Concrete (RMC)",
+        "unit": "CUM",
+        "qty": 55.7,
+        "unit_price": 6040.33,
+        "amount": 336446.38
+      },
+      {
+        "desc": "TMT Bar Fe500D 12mm",
+        "unit": "MT",
+        "qty": 24.08,
+        "unit_price": 68016.41,
+        "amount": 1637835.15
+      },
+      {
+        "desc": "Waterproofing Coat (2 layer)",
+        "unit": "SQM",
+        "qty": 24.4,
+        "unit_price": 188.96,
+        "amount": 4610.62
+      },
+      {
+        "desc": "Rock Wool Slab 100mm 128kg/m3",
+        "unit": "SQM",
+        "qty": 109.0,
+        "unit_price": 707.24,
+        "amount": 77089.16
+      },
+      {
+        "desc": "Aluminium Cladding 0.5mm Stucco",
+        "unit": "SQM",
+        "qty": 103.6,
+        "unit_price": 427.48,
+        "amount": 44286.93
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-008",
+    "doc_no": "SUP002-PROJ-DELTA-Q001",
+    "format": "csv",
+    "supplier_id": "SUP002",
+    "supplier_name": "Apex Fasteners & Hardware Co.",
+    "project_id": "PROJ-DELTA",
+    "project_name": "Project Delta",
+    "project_category": "Mechanical Overhaul",
+    "doc_date": "2024-08-06",
+    "validity_days": 45,
+    "payment_terms": "Net 45 days from invoice date",
+    "currency": "INR",
+    "total_excl_tax": 791260.04,
+    "total_incl_tax": 933686.85,
+    "line_item_count": 6,
+    "file_path": "./mock_data/csv/SUP002_01_PROJ-DELTA.csv",
+    "anomalies": [],
+    "notes": "Low price tier supplier \u2014 consistently below market",
+    "line_items": [
+      {
+        "desc": "Overhaul Labour (Rotating Equip)",
+        "unit": "MH",
+        "qty": 153,
+        "unit_price": 575.53,
+        "amount": 88056.09
+      },
+      {
+        "desc": "Alignment Laser Shaft Service",
+        "unit": "NOS",
+        "qty": 23,
+        "unit_price": 11153.39,
+        "amount": 256527.97
+      },
+      {
+        "desc": "Shaft Seal Ring 60x80x10",
+        "unit": "NOS",
+        "qty": 23,
+        "unit_price": 331.18,
+        "amount": 7617.14
+      },
+      {
+        "desc": "Vibration Analysis Service",
+        "unit": "NOS",
+        "qty": 38,
+        "unit_price": 7341.4,
+        "amount": 278973.2
+      },
+      {
+        "desc": "V-Belt A Section Set",
+        "unit": "SET",
+        "qty": 4,
+        "unit_price": 1112.19,
+        "amount": 4448.76
+      },
+      {
+        "desc": "Coupling Fluid 90mm Bore",
+        "unit": "NOS",
+        "qty": 12,
+        "unit_price": 12969.74,
+        "amount": 155636.88
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-009",
+    "doc_no": "SUP002-PROJ-BRAVO-Q002",
+    "format": "email",
+    "supplier_id": "SUP002",
+    "supplier_name": "Apex Fasteners & Hardware Co.",
+    "project_id": "PROJ-BRAVO",
+    "project_name": "Project Bravo",
+    "project_category": "Electrical Infrastructure",
+    "doc_date": "2024-08-13",
+    "validity_days": 7,
+    "payment_terms": "Net 30 days from invoice date",
+    "currency": "INR",
+    "total_excl_tax": 6207621.31,
+    "total_incl_tax": 7324993.15,
+    "line_item_count": 5,
+    "file_path": "./mock_data/email/SUP002_02_PROJ-BRAVO.txt",
+    "anomalies": [],
+    "notes": "Low price tier supplier \u2014 consistently below market",
+    "line_items": [
+      {
+        "desc": "Busbar Trunking 800A Aluminium",
+        "unit": "MTR",
+        "qty": 282,
+        "unit_price": 11189.18,
+        "amount": 3155348.76
+      },
+      {
+        "desc": "XLPE Cable 3.5Cx240sqmm Armoured",
+        "unit": "MTR",
+        "qty": 229,
+        "unit_price": 1647.73,
+        "amount": 377330.17
+      },
+      {
+        "desc": "LT Panel 415V 630A ACB Incomer",
+        "unit": "NOS",
+        "qty": 9,
+        "unit_price": 166051.32,
+        "amount": 1494461.88
+      },
+      {
+        "desc": "Voltage Stabilizer 50KVA",
+        "unit": "NOS",
+        "qty": 12,
+        "unit_price": 89860.78,
+        "amount": 1078329.36
+      },
+      {
+        "desc": "XLPE Cable 4Cx16sqmm Armoured",
+        "unit": "MTR",
+        "qty": 353,
+        "unit_price": 289.38,
+        "amount": 102151.14
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-010",
+    "doc_no": "SUP002-PROJ-DELTA-Q003",
+    "format": "csv",
+    "supplier_id": "SUP002",
+    "supplier_name": "Apex Fasteners & Hardware Co.",
+    "project_id": "PROJ-DELTA",
+    "project_name": "Project Delta",
+    "project_category": "Mechanical Overhaul",
+    "doc_date": "2024-08-23",
+    "validity_days": 45,
+    "payment_terms": "100% against pro-forma invoice",
+    "currency": "INR",
+    "total_excl_tax": 809722.12,
+    "total_incl_tax": 955472.1,
+    "line_item_count": 4,
+    "file_path": "./mock_data/csv/SUP002_03_PROJ-DELTA.csv",
+    "anomalies": [],
+    "notes": "Low price tier supplier \u2014 consistently below market",
+    "line_items": [
+      {
+        "desc": "Shaft Seal Ring 60x80x10",
+        "unit": "NOS",
+        "qty": 31,
+        "unit_price": 326.98,
+        "amount": 10136.38
+      },
+      {
+        "desc": "Overhaul Labour (Rotating Equip)",
+        "unit": "MH",
+        "qty": 91,
+        "unit_price": 599.77,
+        "amount": 54579.07
+      },
+      {
+        "desc": "SKF Bearing 22222 E Spherical",
+        "unit": "NOS",
+        "qty": 33,
+        "unit_price": 8003.79,
+        "amount": 264125.07
+      },
+      {
+        "desc": "Coupling Fluid 90mm Bore",
+        "unit": "NOS",
+        "qty": 37,
+        "unit_price": 12996.8,
+        "amount": 480881.6
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-011",
+    "doc_no": "SUP002-PROJ-BRAVO-Q004",
+    "format": "xlsx",
+    "supplier_id": "SUP002",
+    "supplier_name": "Apex Fasteners & Hardware Co.",
+    "project_id": "PROJ-BRAVO",
+    "project_name": "Project Bravo",
+    "project_category": "Electrical Infrastructure",
+    "doc_date": "2024-09-08",
+    "validity_days": 60,
+    "payment_terms": "Net 30 days from invoice date",
+    "currency": "INR",
+    "total_excl_tax": 6113670.4,
+    "total_incl_tax": 7214131.07,
+    "line_item_count": 7,
+    "file_path": "./mock_data/xlsx/SUP002_04_PROJ-BRAVO.xlsx",
+    "anomalies": [],
+    "notes": "Low price tier supplier \u2014 consistently below market",
+    "line_items": [
+      {
+        "desc": "LT Panel 415V 630A ACB Incomer",
+        "unit": "NOS",
+        "qty": 32,
+        "unit_price": 162263.45,
+        "amount": 5192430.4
+      },
+      {
+        "desc": "MCB 63A 4-Pole 10kA",
+        "unit": "NOS",
+        "qty": 14,
+        "unit_price": 2877.94,
+        "amount": 40291.16
+      },
+      {
+        "desc": "PVC Conduit 25mm ISI Marked",
+        "unit": "MTR",
+        "qty": 439,
+        "unit_price": 41.83,
+        "amount": 18363.37
+      },
+      {
+        "desc": "Voltage Stabilizer 50KVA",
+        "unit": "NOS",
+        "qty": 5,
+        "unit_price": 87417.53,
+        "amount": 437087.65
+      },
+      {
+        "desc": "XLPE Cable 4Cx16sqmm Armoured",
+        "unit": "MTR",
+        "qty": 275,
+        "unit_price": 283.26,
+        "amount": 77896.5
+      },
+      {
+        "desc": "Earth Pit GI Strip 50x6mm",
+        "unit": "NOS",
+        "qty": 11,
+        "unit_price": 5995.87,
+        "amount": 65954.57
+      },
+      {
+        "desc": "XLPE Cable 3.5Cx240sqmm Armoured",
+        "unit": "MTR",
+        "qty": 165,
+        "unit_price": 1706.95,
+        "amount": 281646.75
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-012",
+    "doc_no": "SUP002-PROJ-DELTA-Q005",
+    "format": "email",
+    "supplier_id": "SUP002",
+    "supplier_name": "Apex Fasteners & Hardware Co.",
+    "project_id": "PROJ-DELTA",
+    "project_name": "Project Delta",
+    "project_category": "Mechanical Overhaul",
+    "doc_date": "2024-09-20",
+    "validity_days": 90,
+    "payment_terms": "50% advance, 50% on completion",
+    "currency": "INR",
+    "total_excl_tax": 472524.65,
+    "total_incl_tax": 557579.09,
+    "line_item_count": 5,
+    "file_path": "./mock_data/email/SUP002_05_PROJ-DELTA.txt",
+    "anomalies": [],
+    "notes": "Low price tier supplier \u2014 consistently below market",
+    "line_items": [
+      {
+        "desc": "V-Belt A Section Set",
+        "unit": "SET",
+        "qty": 6,
+        "unit_price": 1079.75,
+        "amount": 6478.5
+      },
+      {
+        "desc": "SKF Bearing 22222 E Spherical",
+        "unit": "NOS",
+        "qty": 16,
+        "unit_price": 7804.01,
+        "amount": 124864.16
+      },
+      {
+        "desc": "Mechanical Seal Type 502 50mm",
+        "unit": "NOS",
+        "qty": 11,
+        "unit_price": 3377.08,
+        "amount": 37147.88
+      },
+      {
+        "desc": "Alignment Laser Shaft Service",
+        "unit": "NOS",
+        "qty": 27,
+        "unit_price": 11177.01,
+        "amount": 301779.27
+      },
+      {
+        "desc": "Shaft Seal Ring 60x80x10",
+        "unit": "NOS",
+        "qty": 7,
+        "unit_price": 322.12,
+        "amount": 2254.84
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-013",
+    "doc_no": "SUP002-PROJ-BRAVO-Q006",
+    "format": "scan_sim",
+    "supplier_id": "SUP002",
+    "supplier_name": "Apex Fasteners & Hardware Co.",
+    "project_id": "PROJ-BRAVO",
+    "project_name": "Project Bravo",
+    "project_category": "Electrical Infrastructure",
+    "doc_date": "2024-10-05",
+    "validity_days": 60,
+    "payment_terms": "Net 30 days from invoice date",
+    "currency": "INR",
+    "total_excl_tax": 11157147.06,
+    "total_incl_tax": 13165433.53,
+    "line_item_count": 6,
+    "file_path": "./mock_data/scan_sim/SUP002_06_PROJ-BRAVO.txt",
+    "anomalies": [],
+    "notes": "Low price tier supplier \u2014 consistently below market",
+    "line_items": [
+      {
+        "desc": "XLPE Cable 3.5Cx240sqmm Armoured",
+        "unit": "MTR",
+        "qty": 214,
+        "unit_price": 1632.75,
+        "amount": 349408.5
+      },
+      {
+        "desc": "Earth Pit GI Strip 50x6mm",
+        "unit": "NOS",
+        "qty": 22,
+        "unit_price": 5744.66,
+        "amount": 126382.52
+      },
+      {
+        "desc": "Busbar Trunking 800A Aluminium",
+        "unit": "MTR",
+        "qty": 368,
+        "unit_price": 11299.91,
+        "amount": 4158366.88
+      },
+      {
+        "desc": "LT Panel 415V 630A ACB Incomer",
+        "unit": "NOS",
+        "qty": 40,
+        "unit_price": 161231.23,
+        "amount": 6449249.2
+      },
+      {
+        "desc": "XLPE Cable 4Cx16sqmm Armoured",
+        "unit": "MTR",
+        "qty": 108,
+        "unit_price": 290.91,
+        "amount": 31418.28
+      },
+      {
+        "desc": "Installation & Testing Labour",
+        "unit": "LS",
+        "qty": 1,
+        "unit_price": 42321.68,
+        "amount": 42321.68
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-014",
+    "doc_no": "SUP003-PROJ-CHARLIE-Q001",
+    "format": "pdf_informal",
+    "supplier_id": "SUP003",
+    "supplier_name": "Global Polymer Solutions Ltd",
+    "project_id": "PROJ-CHARLIE",
+    "project_name": "Project Charlie",
+    "project_category": "Fluid Systems",
+    "doc_date": "2024-08-04",
+    "validity_days": 45,
+    "payment_terms": "100% against pro-forma invoice",
+    "currency": "INR",
+    "total_excl_tax": 1122556.84,
+    "total_incl_tax": 1324617.07,
+    "line_item_count": 4,
+    "file_path": "./mock_data/pdf/SUP003_01_PROJ-CHARLIE.pdf",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "Gasket Spiral Wound 2 inch 316SS",
+        "unit": "NOS",
+        "qty": 11,
+        "unit_price": 648.96,
+        "amount": 7138.56
+      },
+      {
+        "desc": "MS ERW Pipe 4 inch Sch 40",
+        "unit": "MTR",
+        "qty": 244,
+        "unit_price": 1263.46,
+        "amount": 308284.24
+      },
+      {
+        "desc": "Insulation 50mm Rock Wool Pipe",
+        "unit": "MTR",
+        "qty": 432,
+        "unit_price": 379.69,
+        "amount": 164026.08
+      },
+      {
+        "desc": "SS 316L Pipe 2 inch Sch 40",
+        "unit": "MTR",
+        "qty": 233,
+        "unit_price": 2760.12,
+        "amount": 643107.96
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-015",
+    "doc_no": "SUP003-PROJ-ECHO-Q002",
+    "format": "xlsx",
+    "supplier_id": "SUP003",
+    "supplier_name": "Global Polymer Solutions Ltd",
+    "project_id": "PROJ-ECHO",
+    "project_name": "Project Echo",
+    "project_category": "Civil & Insulation",
+    "doc_date": "2024-08-16",
+    "validity_days": 90,
+    "payment_terms": "Net 30 days from invoice date",
+    "currency": "INR",
+    "total_excl_tax": 695702.53,
+    "total_incl_tax": 820928.99,
+    "line_item_count": 8,
+    "file_path": "./mock_data/xlsx/SUP003_02_PROJ-ECHO.xlsx",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "M20 Grade Concrete (RMC)",
+        "unit": "CUM",
+        "qty": 38.1,
+        "unit_price": 5782.16,
+        "amount": 220300.3
+      },
+      {
+        "desc": "Waterproofing Coat (2 layer)",
+        "unit": "SQM",
+        "qty": 102.2,
+        "unit_price": 183.87,
+        "amount": 18791.51
+      },
+      {
+        "desc": "PUF Panel 60mm Cold Room",
+        "unit": "SQM",
+        "qty": 23.9,
+        "unit_price": 1946.12,
+        "amount": 46512.27
+      },
+      {
+        "desc": "Aluminium Cladding 0.5mm Stucco",
+        "unit": "SQM",
+        "qty": 159.6,
+        "unit_price": 433.02,
+        "amount": 69109.99
+      },
+      {
+        "desc": "Civil Foundation Works (LS)",
+        "unit": "LS",
+        "qty": 1,
+        "unit_price": 124309.49,
+        "amount": 124309.49
+      },
+      {
+        "desc": "Scaffolding Erection Labour",
+        "unit": "SQM",
+        "qty": 154.5,
+        "unit_price": 96.44,
+        "amount": 14899.98
+      },
+      {
+        "desc": "OPC 53 Grade Cement",
+        "unit": "BAG",
+        "qty": 461,
+        "unit_price": 394.39,
+        "amount": 181813.79
+      },
+      {
+        "desc": "Sand Fine River Grade",
+        "unit": "CFT",
+        "qty": 370,
+        "unit_price": 53.96,
+        "amount": 19965.2
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-016",
+    "doc_no": "SUP003-PROJ-CHARLIE-Q003",
+    "format": "pdf_informal",
+    "supplier_id": "SUP003",
+    "supplier_name": "Global Polymer Solutions Ltd",
+    "project_id": "PROJ-CHARLIE",
+    "project_name": "Project Charlie",
+    "project_category": "Fluid Systems",
+    "doc_date": "2024-08-29",
+    "validity_days": 60,
+    "payment_terms": "LC at sight",
+    "currency": "INR",
+    "total_excl_tax": 661127.35,
+    "total_incl_tax": 780130.27,
+    "line_item_count": 6,
+    "file_path": "./mock_data/pdf/SUP003_03_PROJ-CHARLIE.pdf",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "Insulation 50mm Rock Wool Pipe",
+        "unit": "MTR",
+        "qty": 367,
+        "unit_price": 378.93,
+        "amount": 139067.31
+      },
+      {
+        "desc": "Pipe Fittings SS 2 inch (Lot)",
+        "unit": "LOT",
+        "qty": 1,
+        "unit_price": 18089.61,
+        "amount": 18089.61
+      },
+      {
+        "desc": "Pressure Gauge 0-16bar Glycerine",
+        "unit": "NOS",
+        "qty": 36,
+        "unit_price": 855.72,
+        "amount": 30805.92
+      },
+      {
+        "desc": "SS 316L Pipe 2 inch Sch 40",
+        "unit": "MTR",
+        "qty": 66,
+        "unit_price": 2943.23,
+        "amount": 194253.18
+      },
+      {
+        "desc": "Gasket Spiral Wound 2 inch 316SS",
+        "unit": "NOS",
+        "qty": 27,
+        "unit_price": 655.59,
+        "amount": 17700.93
+      },
+      {
+        "desc": "MS ERW Pipe 4 inch Sch 40",
+        "unit": "MTR",
+        "qty": 220,
+        "unit_price": 1187.32,
+        "amount": 261210.4
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-017",
+    "doc_no": "SUP003-PROJ-ECHO-Q004",
+    "format": "email",
+    "supplier_id": "SUP003",
+    "supplier_name": "Global Polymer Solutions Ltd",
+    "project_id": "PROJ-ECHO",
+    "project_name": "Project Echo",
+    "project_category": "Civil & Insulation",
+    "doc_date": "2024-09-10",
+    "validity_days": 21,
+    "payment_terms": "30 days credit after inspection",
+    "currency": "INR",
+    "total_excl_tax": 515705.04,
+    "total_incl_tax": 608531.94,
+    "line_item_count": 5,
+    "file_path": "./mock_data/email/SUP003_04_PROJ-ECHO.txt",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "Civil Foundation Works (LS)",
+        "unit": "LS",
+        "qty": 1,
+        "unit_price": 122759.61,
+        "amount": 122759.61
+      },
+      {
+        "desc": "Rock Wool Slab 100mm 128kg/m3",
+        "unit": "SQM",
+        "qty": 42.8,
+        "unit_price": 691.01,
+        "amount": 29575.23
+      },
+      {
+        "desc": "TMT Bar Fe500D 12mm",
+        "unit": "MT",
+        "qty": 4.51,
+        "unit_price": 69951.61,
+        "amount": 315481.76
+      },
+      {
+        "desc": "Sand Fine River Grade",
+        "unit": "CFT",
+        "qty": 167,
+        "unit_price": 54.71,
+        "amount": 9136.57
+      },
+      {
+        "desc": "Aluminium Cladding 0.5mm Stucco",
+        "unit": "SQM",
+        "qty": 88.6,
+        "unit_price": 437.38,
+        "amount": 38751.87
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-018",
+    "doc_no": "SUP003-PROJ-CHARLIE-Q005",
+    "format": "xlsx",
+    "supplier_id": "SUP003",
+    "supplier_name": "Global Polymer Solutions Ltd",
+    "project_id": "PROJ-CHARLIE",
+    "project_name": "Project Charlie",
+    "project_category": "Fluid Systems",
+    "doc_date": "2024-09-25",
+    "validity_days": 30,
+    "payment_terms": "50% advance, 50% on completion",
+    "currency": "INR",
+    "total_excl_tax": 815497.36,
+    "total_incl_tax": 962286.88,
+    "line_item_count": 7,
+    "file_path": "./mock_data/xlsx/SUP003_05_PROJ-CHARLIE.xlsx",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "Pressure Gauge 0-16bar Glycerine",
+        "unit": "NOS",
+        "qty": 18,
+        "unit_price": 831.89,
+        "amount": 14974.02
+      },
+      {
+        "desc": "Gasket Spiral Wound 2 inch 316SS",
+        "unit": "NOS",
+        "qty": 10,
+        "unit_price": 650.15,
+        "amount": 6501.5
+      },
+      {
+        "desc": "Pipe Fittings SS 2 inch (Lot)",
+        "unit": "LOT",
+        "qty": 1,
+        "unit_price": 18523.91,
+        "amount": 18523.91
+      },
+      {
+        "desc": "Ball Valve 3-Piece 1 inch SS316",
+        "unit": "NOS",
+        "qty": 24,
+        "unit_price": 2961.59,
+        "amount": 71078.16
+      },
+      {
+        "desc": "Insulation 50mm Rock Wool Pipe",
+        "unit": "MTR",
+        "qty": 364,
+        "unit_price": 400.12,
+        "amount": 145643.68
+      },
+      {
+        "desc": "SS 316L Pipe 2 inch Sch 40",
+        "unit": "MTR",
+        "qty": 142,
+        "unit_price": 2904.02,
+        "amount": 412370.84
+      },
+      {
+        "desc": "Gate Valve PN16 2 inch SS Body",
+        "unit": "NOS",
+        "qty": 31,
+        "unit_price": 4722.75,
+        "amount": 146405.25
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-019",
+    "doc_no": "SUP003-PROJ-ECHO-Q006",
+    "format": "pdf_informal",
+    "supplier_id": "SUP003",
+    "supplier_name": "Global Polymer Solutions Ltd",
+    "project_id": "PROJ-ECHO",
+    "project_name": "Project Echo",
+    "project_category": "Civil & Insulation",
+    "doc_date": "2024-10-10",
+    "validity_days": 15,
+    "payment_terms": "30 days credit after inspection",
+    "currency": "INR",
+    "total_excl_tax": 1166692.09,
+    "total_incl_tax": 1376696.66,
+    "line_item_count": 8,
+    "file_path": "./mock_data/pdf/SUP003_06_PROJ-ECHO.pdf",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "Rock Wool Slab 100mm 128kg/m3",
+        "unit": "SQM",
+        "qty": 155.9,
+        "unit_price": 689.38,
+        "amount": 107474.34
+      },
+      {
+        "desc": "Aluminium Cladding 0.5mm Stucco",
+        "unit": "SQM",
+        "qty": 91.1,
+        "unit_price": 436.29,
+        "amount": 39746.02
+      },
+      {
+        "desc": "TMT Bar Fe500D 12mm",
+        "unit": "MT",
+        "qty": 8.66,
+        "unit_price": 67338.82,
+        "amount": 583154.18
+      },
+      {
+        "desc": "M20 Grade Concrete (RMC)",
+        "unit": "CUM",
+        "qty": 39.5,
+        "unit_price": 5926.55,
+        "amount": 234098.73
+      },
+      {
+        "desc": "OPC 53 Grade Cement",
+        "unit": "BAG",
+        "qty": 137,
+        "unit_price": 397.06,
+        "amount": 54397.22
+      },
+      {
+        "desc": "Sand Fine River Grade",
+        "unit": "CFT",
+        "qty": 505,
+        "unit_price": 57.04,
+        "amount": 28805.2
+      },
+      {
+        "desc": "Waterproofing Coat (2 layer)",
+        "unit": "SQM",
+        "qty": 33.7,
+        "unit_price": 180.29,
+        "amount": 6075.77
+      },
+      {
+        "desc": "PUF Panel 60mm Cold Room",
+        "unit": "SQM",
+        "qty": 62.5,
+        "unit_price": 1807.05,
+        "amount": 112940.62
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-020",
+    "doc_no": "SUP004-PROJ-ALPHA-Q001",
+    "format": "pdf_formal",
+    "supplier_id": "SUP004",
+    "supplier_name": "TechnoFab Engineering Works",
+    "project_id": "PROJ-ALPHA",
+    "project_name": "Project Alpha",
+    "project_category": "Structural Fabrication",
+    "doc_date": "2024-08-03",
+    "validity_days": 15,
+    "payment_terms": "Net 30 days from invoice date",
+    "currency": "INR",
+    "total_excl_tax": 7636826.63,
+    "total_incl_tax": 9011455.42,
+    "line_item_count": 8,
+    "file_path": "./mock_data/pdf/SUP004_01_PROJ-ALPHA.pdf",
+    "anomalies": [
+      "price_outlier_40pct_above_market",
+      "short_validity_window"
+    ],
+    "notes": "ANOMALY: Prices ~40% above market benchmark. Short validity window.",
+    "line_items": [
+      {
+        "desc": "Grating Platform 25x3 Serrated",
+        "unit": "SQM",
+        "qty": 163.3,
+        "unit_price": 3816.42,
+        "amount": 623221.39
+      },
+      {
+        "desc": "Primer & Painting (2 coat)",
+        "unit": "SQM",
+        "qty": 136.0,
+        "unit_price": 172.36,
+        "amount": 23440.96
+      },
+      {
+        "desc": "MS I-Beam 200mm (ISMB 200)",
+        "unit": "MT",
+        "qty": 19.0,
+        "unit_price": 108891.26,
+        "amount": 2068933.94
+      },
+      {
+        "desc": "Structural Steel Fabrication Labour",
+        "unit": "MT",
+        "qty": 20.65,
+        "unit_price": 25907.02,
+        "amount": 534979.96
+      },
+      {
+        "desc": "Anchor Bolts M20x400 Grade 8.8",
+        "unit": "NOS",
+        "qty": 12,
+        "unit_price": 120.97,
+        "amount": 1451.64
+      },
+      {
+        "desc": "MS Plate 12mm IS 2062 E350",
+        "unit": "MT",
+        "qty": 16.89,
+        "unit_price": 105809.82,
+        "amount": 1787127.86
+      },
+      {
+        "desc": "MS Plate 8mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 9.67,
+        "unit_price": 98329.96,
+        "amount": 950850.71
+      },
+      {
+        "desc": "MS Angle 65x65x6mm",
+        "unit": "MT",
+        "qty": 16.8,
+        "unit_price": 98025.01,
+        "amount": 1646820.17
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-021",
+    "doc_no": "SUP004-PROJ-ALPHA-Q002",
+    "format": "pdf_formal",
+    "supplier_id": "SUP004",
+    "supplier_name": "TechnoFab Engineering Works",
+    "project_id": "PROJ-ALPHA",
+    "project_name": "Project Alpha",
+    "project_category": "Structural Fabrication",
+    "doc_date": "2024-08-21",
+    "validity_days": 7,
+    "payment_terms": "50% advance, 50% on completion",
+    "currency": "INR",
+    "total_excl_tax": 3963613.51,
+    "total_incl_tax": 4677063.94,
+    "line_item_count": 6,
+    "file_path": "./mock_data/pdf/SUP004_02_PROJ-ALPHA.pdf",
+    "anomalies": [
+      "price_outlier_40pct_above_market",
+      "short_validity_window"
+    ],
+    "notes": "ANOMALY: Prices ~40% above market benchmark. Short validity window.",
+    "line_items": [
+      {
+        "desc": "Primer & Painting (2 coat)",
+        "unit": "SQM",
+        "qty": 111.4,
+        "unit_price": 164.46,
+        "amount": 18320.84
+      },
+      {
+        "desc": "MS Angle 65x65x6mm",
+        "unit": "MT",
+        "qty": 10.66,
+        "unit_price": 103504.83,
+        "amount": 1103361.49
+      },
+      {
+        "desc": "Anchor Bolts M20x400 Grade 8.8",
+        "unit": "NOS",
+        "qty": 30,
+        "unit_price": 122.29,
+        "amount": 3668.7
+      },
+      {
+        "desc": "MS Plate 8mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 12.62,
+        "unit_price": 95492.21,
+        "amount": 1205111.69
+      },
+      {
+        "desc": "Structural Steel Fabrication Labour",
+        "unit": "MT",
+        "qty": 13.05,
+        "unit_price": 25127.02,
+        "amount": 327907.61
+      },
+      {
+        "desc": "MS Plate 6mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 13.81,
+        "unit_price": 94514.35,
+        "amount": 1305243.17
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-022",
+    "doc_no": "SUP004-PROJ-BRAVO-Q003",
+    "format": "xlsx",
+    "supplier_id": "SUP004",
+    "supplier_name": "TechnoFab Engineering Works",
+    "project_id": "PROJ-BRAVO",
+    "project_name": "Project Bravo",
+    "project_category": "Electrical Infrastructure",
+    "doc_date": "2024-09-03",
+    "validity_days": 7,
+    "payment_terms": "100% against pro-forma invoice",
+    "currency": "INR",
+    "total_excl_tax": 6405252.65,
+    "total_incl_tax": 7558198.13,
+    "line_item_count": 5,
+    "file_path": "./mock_data/xlsx/SUP004_03_PROJ-BRAVO.xlsx",
+    "anomalies": [
+      "price_outlier_40pct_above_market",
+      "short_validity_window"
+    ],
+    "notes": "ANOMALY: Prices ~40% above market benchmark. Short validity window.",
+    "line_items": [
+      {
+        "desc": "LT Panel 415V 630A ACB Incomer",
+        "unit": "NOS",
+        "qty": 11,
+        "unit_price": 251259.86,
+        "amount": 2763858.46
+      },
+      {
+        "desc": "Cable Tray Perforated 300x50mm",
+        "unit": "MTR",
+        "qty": 90,
+        "unit_price": 661.93,
+        "amount": 59573.7
+      },
+      {
+        "desc": "MCB 63A 4-Pole 10kA",
+        "unit": "NOS",
+        "qty": 28,
+        "unit_price": 4489.23,
+        "amount": 125698.44
+      },
+      {
+        "desc": "Earth Pit GI Strip 50x6mm",
+        "unit": "NOS",
+        "qty": 17,
+        "unit_price": 8937.4,
+        "amount": 151935.8
+      },
+      {
+        "desc": "Voltage Stabilizer 50KVA",
+        "unit": "NOS",
+        "qty": 25,
+        "unit_price": 132167.45,
+        "amount": 3304186.25
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-023",
+    "doc_no": "SUP004-PROJ-CHARLIE-Q004",
+    "format": "pdf_formal",
+    "supplier_id": "SUP004",
+    "supplier_name": "TechnoFab Engineering Works",
+    "project_id": "PROJ-CHARLIE",
+    "project_name": "Project Charlie",
+    "project_category": "Fluid Systems",
+    "doc_date": "2024-09-18",
+    "validity_days": 7,
+    "payment_terms": "Net 30 days from invoice date",
+    "currency": "INR",
+    "total_excl_tax": 2326272.0,
+    "total_incl_tax": 2745000.96,
+    "line_item_count": 6,
+    "file_path": "./mock_data/pdf/SUP004_04_PROJ-CHARLIE.pdf",
+    "anomalies": [
+      "price_outlier_40pct_above_market",
+      "short_validity_window"
+    ],
+    "notes": "ANOMALY: Prices ~40% above market benchmark. Short validity window.",
+    "line_items": [
+      {
+        "desc": "Centrifugal Pump 50LPS@30m Head",
+        "unit": "NOS",
+        "qty": 8,
+        "unit_price": 116790.61,
+        "amount": 934324.88
+      },
+      {
+        "desc": "SS 316L Pipe 2 inch Sch 40",
+        "unit": "MTR",
+        "qty": 287,
+        "unit_price": 4006.42,
+        "amount": 1149842.54
+      },
+      {
+        "desc": "Pressure Gauge 0-16bar Glycerine",
+        "unit": "NOS",
+        "qty": 34,
+        "unit_price": 1180.27,
+        "amount": 40129.18
+      },
+      {
+        "desc": "Pipe Fittings SS 2 inch (Lot)",
+        "unit": "LOT",
+        "qty": 1,
+        "unit_price": 25882.16,
+        "amount": 25882.16
+      },
+      {
+        "desc": "Hydro Testing & Commissioning",
+        "unit": "LS",
+        "qty": 1,
+        "unit_price": 35990.2,
+        "amount": 35990.2
+      },
+      {
+        "desc": "Gate Valve PN16 2 inch SS Body",
+        "unit": "NOS",
+        "qty": 22,
+        "unit_price": 6368.32,
+        "amount": 140103.04
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-024",
+    "doc_no": "SUP004-PROJ-DELTA-Q005",
+    "format": "pdf_formal",
+    "supplier_id": "SUP004",
+    "supplier_name": "TechnoFab Engineering Works",
+    "project_id": "PROJ-DELTA",
+    "project_name": "Project Delta",
+    "project_category": "Mechanical Overhaul",
+    "doc_date": "2024-10-02",
+    "validity_days": 15,
+    "payment_terms": "30% advance, 70% against delivery",
+    "currency": "INR",
+    "total_excl_tax": 848877.92,
+    "total_incl_tax": 1001675.95,
+    "line_item_count": 6,
+    "file_path": "./mock_data/pdf/SUP004_05_PROJ-DELTA.pdf",
+    "anomalies": [
+      "price_outlier_40pct_above_market",
+      "short_validity_window"
+    ],
+    "notes": "ANOMALY: Prices ~40% above market benchmark. Short validity window.",
+    "line_items": [
+      {
+        "desc": "Vibration Analysis Service",
+        "unit": "NOS",
+        "qty": 25,
+        "unit_price": 10902.27,
+        "amount": 272556.75
+      },
+      {
+        "desc": "Shaft Seal Ring 60x80x10",
+        "unit": "NOS",
+        "qty": 25,
+        "unit_price": 488.43,
+        "amount": 12210.75
+      },
+      {
+        "desc": "V-Belt A Section Set",
+        "unit": "SET",
+        "qty": 3,
+        "unit_price": 1681.7,
+        "amount": 5045.1
+      },
+      {
+        "desc": "Gearbox Oil SAE 220 GL-4 200L",
+        "unit": "DRUM",
+        "qty": 8,
+        "unit_price": 25341.5,
+        "amount": 202732.0
+      },
+      {
+        "desc": "SKF Bearing 6205-2RS Deep Groove",
+        "unit": "NOS",
+        "qty": 13,
+        "unit_price": 680.05,
+        "amount": 8840.65
+      },
+      {
+        "desc": "Alignment Laser Shaft Service",
+        "unit": "NOS",
+        "qty": 21,
+        "unit_price": 16547.27,
+        "amount": 347492.67
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-025",
+    "doc_no": "SUP004-PROJ-ALPHA-Q006",
+    "format": "csv",
+    "supplier_id": "SUP004",
+    "supplier_name": "TechnoFab Engineering Works",
+    "project_id": "PROJ-ALPHA",
+    "project_name": "Project Alpha",
+    "project_category": "Structural Fabrication",
+    "doc_date": "2024-10-15",
+    "validity_days": 7,
+    "payment_terms": "100% against pro-forma invoice",
+    "currency": "INR",
+    "total_excl_tax": 7344847.28,
+    "total_incl_tax": 8666919.79,
+    "line_item_count": 8,
+    "file_path": "./mock_data/csv/SUP004_06_PROJ-ALPHA.csv",
+    "anomalies": [
+      "price_outlier_40pct_above_market",
+      "short_validity_window"
+    ],
+    "notes": "ANOMALY: Prices ~40% above market benchmark. Short validity window.",
+    "line_items": [
+      {
+        "desc": "Grating Platform 25x3 Serrated",
+        "unit": "SQM",
+        "qty": 114.6,
+        "unit_price": 3908.79,
+        "amount": 447947.33
+      },
+      {
+        "desc": "MS I-Beam 200mm (ISMB 200)",
+        "unit": "MT",
+        "qty": 17.64,
+        "unit_price": 111762.84,
+        "amount": 1971496.5
+      },
+      {
+        "desc": "Primer & Painting (2 coat)",
+        "unit": "SQM",
+        "qty": 47.5,
+        "unit_price": 171.32,
+        "amount": 8137.7
+      },
+      {
+        "desc": "Structural Steel Fabrication Labour",
+        "unit": "MT",
+        "qty": 7.76,
+        "unit_price": 25332.2,
+        "amount": 196577.87
+      },
+      {
+        "desc": "MS Channel 150x75mm",
+        "unit": "MT",
+        "qty": 15.35,
+        "unit_price": 103587.94,
+        "amount": 1590074.88
+      },
+      {
+        "desc": "MS Plate 8mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 6.85,
+        "unit_price": 96571.32,
+        "amount": 661513.54
+      },
+      {
+        "desc": "MS Plate 6mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 20.57,
+        "unit_price": 94330.65,
+        "amount": 1940381.47
+      },
+      {
+        "desc": "MS Angle 65x65x6mm",
+        "unit": "MT",
+        "qty": 5.3,
+        "unit_price": 99758.11,
+        "amount": 528717.98
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-026",
+    "doc_no": "SUP005-PROJ-ALPHA-Q001",
+    "format": "pdf_formal",
+    "supplier_id": "SUP005",
+    "supplier_name": "Indo-Gulf Procurement Services",
+    "project_id": "PROJ-ALPHA",
+    "project_name": "Project Alpha",
+    "project_category": "Structural Fabrication",
+    "doc_date": "2024-08-08",
+    "validity_days": 30,
+    "payment_terms": "LC at sight",
+    "currency": "USD",
+    "total_excl_tax": 2183555.18,
+    "total_incl_tax": 2183555.18,
+    "line_item_count": 6,
+    "file_path": "./mock_data/pdf/SUP005_01_PROJ-ALPHA.pdf",
+    "anomalies": [
+      "currency_mismatch_usd_for_domestic_project",
+      "long_delivery_timeline"
+    ],
+    "notes": "ANOMALY: USD pricing for domestic INR project. Long lead time (60 days).",
+    "line_items": [
+      {
+        "desc": "Primer & Painting (2 coat)",
+        "unit": "SQM",
+        "qty": 64.7,
+        "unit_price": 121.78,
+        "amount": 7879.17
+      },
+      {
+        "desc": "MS Angle 65x65x6mm",
+        "unit": "MT",
+        "qty": 13.84,
+        "unit_price": 72126.76,
+        "amount": 998234.36
+      },
+      {
+        "desc": "MS Plate 12mm IS 2062 E350",
+        "unit": "MT",
+        "qty": 3.16,
+        "unit_price": 72672.01,
+        "amount": 229643.55
+      },
+      {
+        "desc": "MS Plate 6mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 8.08,
+        "unit_price": 66410.01,
+        "amount": 536592.88
+      },
+      {
+        "desc": "Structural Steel Fabrication Labour",
+        "unit": "MT",
+        "qty": 13.6,
+        "unit_price": 18747.73,
+        "amount": 254969.13
+      },
+      {
+        "desc": "Grating Platform 25x3 Serrated",
+        "unit": "SQM",
+        "qty": 55.8,
+        "unit_price": 2799.93,
+        "amount": 156236.09
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-027",
+    "doc_no": "SUP005-PROJ-BRAVO-Q002",
+    "format": "email",
+    "supplier_id": "SUP005",
+    "supplier_name": "Indo-Gulf Procurement Services",
+    "project_id": "PROJ-BRAVO",
+    "project_name": "Project Bravo",
+    "project_category": "Electrical Infrastructure",
+    "doc_date": "2024-08-20",
+    "validity_days": 45,
+    "payment_terms": "100% against pro-forma invoice",
+    "currency": "USD",
+    "total_excl_tax": 7505524.06,
+    "total_incl_tax": 7505524.06,
+    "line_item_count": 5,
+    "file_path": "./mock_data/email/SUP005_02_PROJ-BRAVO.txt",
+    "anomalies": [
+      "currency_mismatch_usd_for_domestic_project",
+      "long_delivery_timeline"
+    ],
+    "notes": "ANOMALY: USD pricing for domestic INR project. Long lead time (60 days).",
+    "line_items": [
+      {
+        "desc": "Installation & Testing Labour",
+        "unit": "LS",
+        "qty": 1,
+        "unit_price": 46953.78,
+        "amount": 46953.78
+      },
+      {
+        "desc": "Voltage Stabilizer 50KVA",
+        "unit": "NOS",
+        "qty": 9,
+        "unit_price": 100418.45,
+        "amount": 903766.05
+      },
+      {
+        "desc": "XLPE Cable 3.5Cx240sqmm Armoured",
+        "unit": "MTR",
+        "qty": 447,
+        "unit_price": 1923.47,
+        "amount": 859791.09
+      },
+      {
+        "desc": "Busbar Trunking 800A Aluminium",
+        "unit": "MTR",
+        "qty": 470,
+        "unit_price": 12086.0,
+        "amount": 5680420.0
+      },
+      {
+        "desc": "PVC Conduit 25mm ISI Marked",
+        "unit": "MTR",
+        "qty": 306,
+        "unit_price": 47.69,
+        "amount": 14593.14
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-028",
+    "doc_no": "SUP005-PROJ-CHARLIE-Q003",
+    "format": "pdf_formal",
+    "supplier_id": "SUP005",
+    "supplier_name": "Indo-Gulf Procurement Services",
+    "project_id": "PROJ-CHARLIE",
+    "project_name": "Project Charlie",
+    "project_category": "Fluid Systems",
+    "doc_date": "2024-09-04",
+    "validity_days": 15,
+    "payment_terms": "100% against pro-forma invoice",
+    "currency": "USD",
+    "total_excl_tax": 1809706.82,
+    "total_incl_tax": 1809706.82,
+    "line_item_count": 8,
+    "file_path": "./mock_data/pdf/SUP005_03_PROJ-CHARLIE.pdf",
+    "anomalies": [
+      "currency_mismatch_usd_for_domestic_project",
+      "long_delivery_timeline"
+    ],
+    "notes": "ANOMALY: USD pricing for domestic INR project. Long lead time (60 days).",
+    "line_items": [
+      {
+        "desc": "Pressure Gauge 0-16bar Glycerine",
+        "unit": "NOS",
+        "qty": 37,
+        "unit_price": 861.2,
+        "amount": 31864.4
+      },
+      {
+        "desc": "Hydro Testing & Commissioning",
+        "unit": "LS",
+        "qty": 1,
+        "unit_price": 24903.52,
+        "amount": 24903.52
+      },
+      {
+        "desc": "Insulation 50mm Rock Wool Pipe",
+        "unit": "MTR",
+        "qty": 415,
+        "unit_price": 400.51,
+        "amount": 166211.65
+      },
+      {
+        "desc": "Gasket Spiral Wound 2 inch 316SS",
+        "unit": "NOS",
+        "qty": 8,
+        "unit_price": 637.0,
+        "amount": 5096.0
+      },
+      {
+        "desc": "Pipe Fittings SS 2 inch (Lot)",
+        "unit": "LOT",
+        "qty": 1,
+        "unit_price": 18517.69,
+        "amount": 18517.69
+      },
+      {
+        "desc": "Gate Valve PN16 2 inch SS Body",
+        "unit": "NOS",
+        "qty": 32,
+        "unit_price": 4629.18,
+        "amount": 148133.76
+      },
+      {
+        "desc": "Ball Valve 3-Piece 1 inch SS316",
+        "unit": "NOS",
+        "qty": 4,
+        "unit_price": 2762.95,
+        "amount": 11051.8
+      },
+      {
+        "desc": "SS 316L Pipe 2 inch Sch 40",
+        "unit": "MTR",
+        "qty": 496,
+        "unit_price": 2830.5,
+        "amount": 1403928.0
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-029",
+    "doc_no": "SUP005-PROJ-DELTA-Q004",
+    "format": "xlsx",
+    "supplier_id": "SUP005",
+    "supplier_name": "Indo-Gulf Procurement Services",
+    "project_id": "PROJ-DELTA",
+    "project_name": "Project Delta",
+    "project_category": "Mechanical Overhaul",
+    "doc_date": "2024-09-22",
+    "validity_days": 15,
+    "payment_terms": "Net 30 days from invoice date",
+    "currency": "USD",
+    "total_excl_tax": 714012.21,
+    "total_incl_tax": 714012.21,
+    "line_item_count": 7,
+    "file_path": "./mock_data/xlsx/SUP005_04_PROJ-DELTA.xlsx",
+    "anomalies": [
+      "currency_mismatch_usd_for_domestic_project",
+      "long_delivery_timeline"
+    ],
+    "notes": "ANOMALY: USD pricing for domestic INR project. Long lead time (60 days).",
+    "line_items": [
+      {
+        "desc": "V-Belt A Section Set",
+        "unit": "SET",
+        "qty": 5,
+        "unit_price": 1219.65,
+        "amount": 6098.25
+      },
+      {
+        "desc": "Coupling Fluid 90mm Bore",
+        "unit": "NOS",
+        "qty": 8,
+        "unit_price": 14142.89,
+        "amount": 113143.12
+      },
+      {
+        "desc": "SKF Bearing 22222 E Spherical",
+        "unit": "NOS",
+        "qty": 21,
+        "unit_price": 8755.86,
+        "amount": 183873.06
+      },
+      {
+        "desc": "Mechanical Seal Type 502 50mm",
+        "unit": "NOS",
+        "qty": 27,
+        "unit_price": 3896.2,
+        "amount": 105197.4
+      },
+      {
+        "desc": "Overhaul Labour (Rotating Equip)",
+        "unit": "MH",
+        "qty": 115,
+        "unit_price": 677.42,
+        "amount": 77903.3
+      },
+      {
+        "desc": "Alignment Laser Shaft Service",
+        "unit": "NOS",
+        "qty": 17,
+        "unit_price": 12630.62,
+        "amount": 214720.54
+      },
+      {
+        "desc": "Shaft Seal Ring 60x80x10",
+        "unit": "NOS",
+        "qty": 37,
+        "unit_price": 353.42,
+        "amount": 13076.54
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-030",
+    "doc_no": "SUP005-PROJ-ALPHA-Q005",
+    "format": "email",
+    "supplier_id": "SUP005",
+    "supplier_name": "Indo-Gulf Procurement Services",
+    "project_id": "PROJ-ALPHA",
+    "project_name": "Project Alpha",
+    "project_category": "Structural Fabrication",
+    "doc_date": "2024-10-08",
+    "validity_days": 60,
+    "payment_terms": "Net 30 days from invoice date",
+    "currency": "USD",
+    "total_excl_tax": 4647600.43,
+    "total_incl_tax": 4647600.43,
+    "line_item_count": 7,
+    "file_path": "./mock_data/email/SUP005_05_PROJ-ALPHA.txt",
+    "anomalies": [
+      "currency_mismatch_usd_for_domestic_project",
+      "long_delivery_timeline"
+    ],
+    "notes": "ANOMALY: USD pricing for domestic INR project. Long lead time (60 days).",
+    "line_items": [
+      {
+        "desc": "MS Plate 8mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 13.8,
+        "unit_price": 71543.36,
+        "amount": 987298.37
+      },
+      {
+        "desc": "Anchor Bolts M20x400 Grade 8.8",
+        "unit": "NOS",
+        "qty": 6,
+        "unit_price": 88.31,
+        "amount": 529.86
+      },
+      {
+        "desc": "Primer & Painting (2 coat)",
+        "unit": "SQM",
+        "qty": 87.4,
+        "unit_price": 117.84,
+        "amount": 10299.22
+      },
+      {
+        "desc": "Structural Steel Fabrication Labour",
+        "unit": "MT",
+        "qty": 21.79,
+        "unit_price": 18685.01,
+        "amount": 407146.37
+      },
+      {
+        "desc": "MS Plate 6mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 24.51,
+        "unit_price": 71696.95,
+        "amount": 1757292.24
+      },
+      {
+        "desc": "MS Angle 65x65x6mm",
+        "unit": "MT",
+        "qty": 18.68,
+        "unit_price": 70057.57,
+        "amount": 1308675.41
+      },
+      {
+        "desc": "Grating Platform 25x3 Serrated",
+        "unit": "SQM",
+        "qty": 64.1,
+        "unit_price": 2751.31,
+        "amount": 176358.97
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-031",
+    "doc_no": "SUP006-PROJ-DELTA-Q001",
+    "format": "xlsx",
+    "supplier_id": "SUP006",
+    "supplier_name": "Reliable Rubber & Seals Mfg.",
+    "project_id": "PROJ-DELTA",
+    "project_name": "Project Delta",
+    "project_category": "Mechanical Overhaul",
+    "doc_date": "2024-08-07",
+    "validity_days": 21,
+    "payment_terms": "Net 45 days from invoice date",
+    "currency": "INR",
+    "total_excl_tax": 937223.95,
+    "total_incl_tax": 1105924.26,
+    "line_item_count": 8,
+    "file_path": "./mock_data/xlsx/SUP006_01_PROJ-DELTA.xlsx",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "Gearbox Oil SAE 220 GL-4 200L",
+        "unit": "DRUM",
+        "qty": 3,
+        "unit_price": 19563.86,
+        "amount": 58691.58
+      },
+      {
+        "desc": "Coupling Fluid 90mm Bore",
+        "unit": "NOS",
+        "qty": 26,
+        "unit_price": 14176.63,
+        "amount": 368592.38
+      },
+      {
+        "desc": "V-Belt A Section Set",
+        "unit": "SET",
+        "qty": 1,
+        "unit_price": 1190.23,
+        "amount": 1190.23
+      },
+      {
+        "desc": "SKF Bearing 22222 E Spherical",
+        "unit": "NOS",
+        "qty": 7,
+        "unit_price": 8533.53,
+        "amount": 59734.71
+      },
+      {
+        "desc": "Vibration Analysis Service",
+        "unit": "NOS",
+        "qty": 6,
+        "unit_price": 8449.05,
+        "amount": 50694.3
+      },
+      {
+        "desc": "Overhaul Labour (Rotating Equip)",
+        "unit": "MH",
+        "qty": 198,
+        "unit_price": 662.8,
+        "amount": 131234.4
+      },
+      {
+        "desc": "Shaft Seal Ring 60x80x10",
+        "unit": "NOS",
+        "qty": 31,
+        "unit_price": 342.61,
+        "amount": 10620.91
+      },
+      {
+        "desc": "Alignment Laser Shaft Service",
+        "unit": "NOS",
+        "qty": 22,
+        "unit_price": 11657.52,
+        "amount": 256465.44
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-032",
+    "doc_no": "SUP006-PROJ-CHARLIE-Q002",
+    "format": "scan_sim",
+    "supplier_id": "SUP006",
+    "supplier_name": "Reliable Rubber & Seals Mfg.",
+    "project_id": "PROJ-CHARLIE",
+    "project_name": "Project Charlie",
+    "project_category": "Fluid Systems",
+    "doc_date": "2024-08-18",
+    "validity_days": 21,
+    "payment_terms": "50% advance, 50% on completion",
+    "currency": "INR",
+    "total_excl_tax": 3366820.45,
+    "total_incl_tax": 3972848.13,
+    "line_item_count": 5,
+    "file_path": "./mock_data/scan_sim/SUP006_02_PROJ-CHARLIE.txt",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "Pressure Gauge 0-16bar Glycerine",
+        "unit": "NOS",
+        "qty": 23,
+        "unit_price": 835.21,
+        "amount": 19209.83
+      },
+      {
+        "desc": "Ball Valve 3-Piece 1 inch SS316",
+        "unit": "NOS",
+        "qty": 36,
+        "unit_price": 2728.23,
+        "amount": 98216.28
+      },
+      {
+        "desc": "Pipe Fittings SS 2 inch (Lot)",
+        "unit": "LOT",
+        "qty": 1,
+        "unit_price": 18493.12,
+        "amount": 18493.12
+      },
+      {
+        "desc": "Centrifugal Pump 50LPS@30m Head",
+        "unit": "NOS",
+        "qty": 33,
+        "unit_price": 86548.4,
+        "amount": 2856097.2
+      },
+      {
+        "desc": "MS ERW Pipe 4 inch Sch 40",
+        "unit": "MTR",
+        "qty": 307,
+        "unit_price": 1220.86,
+        "amount": 374804.02
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-033",
+    "doc_no": "SUP006-PROJ-DELTA-Q003",
+    "format": "xlsx",
+    "supplier_id": "SUP006",
+    "supplier_name": "Reliable Rubber & Seals Mfg.",
+    "project_id": "PROJ-DELTA",
+    "project_name": "Project Delta",
+    "project_category": "Mechanical Overhaul",
+    "doc_date": "2024-08-30",
+    "validity_days": 90,
+    "payment_terms": "TBD upon mutual agreement",
+    "currency": "INR",
+    "total_excl_tax": 1050466.57,
+    "total_incl_tax": 1239550.55,
+    "line_item_count": 8,
+    "file_path": "./mock_data/xlsx/SUP006_03_PROJ-DELTA.xlsx",
+    "anomalies": [
+      "vague_payment_terms"
+    ],
+    "notes": "vague_payment_terms",
+    "line_items": [
+      {
+        "desc": "Overhaul Labour (Rotating Equip)",
+        "unit": "MH",
+        "qty": 121,
+        "unit_price": 663.65,
+        "amount": 80301.65
+      },
+      {
+        "desc": "V-Belt A Section Set",
+        "unit": "SET",
+        "qty": 6,
+        "unit_price": 1169.8,
+        "amount": 7018.8
+      },
+      {
+        "desc": "SKF Bearing 6205-2RS Deep Groove",
+        "unit": "NOS",
+        "qty": 6,
+        "unit_price": 499.45,
+        "amount": 2996.7
+      },
+      {
+        "desc": "Vibration Analysis Service",
+        "unit": "NOS",
+        "qty": 24,
+        "unit_price": 8315.96,
+        "amount": 199583.04
+      },
+      {
+        "desc": "Gearbox Oil SAE 220 GL-4 200L",
+        "unit": "DRUM",
+        "qty": 7,
+        "unit_price": 18122.41,
+        "amount": 126856.87
+      },
+      {
+        "desc": "Mechanical Seal Type 502 50mm",
+        "unit": "NOS",
+        "qty": 30,
+        "unit_price": 3875.72,
+        "amount": 116271.6
+      },
+      {
+        "desc": "Shaft Seal Ring 60x80x10",
+        "unit": "NOS",
+        "qty": 7,
+        "unit_price": 348.69,
+        "amount": 2440.83
+      },
+      {
+        "desc": "Coupling Fluid 90mm Bore",
+        "unit": "NOS",
+        "qty": 37,
+        "unit_price": 13918.84,
+        "amount": 514997.08
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-034",
+    "doc_no": "SUP006-PROJ-CHARLIE-Q004",
+    "format": "email",
+    "supplier_id": "SUP006",
+    "supplier_name": "Reliable Rubber & Seals Mfg.",
+    "project_id": "PROJ-CHARLIE",
+    "project_name": "Project Charlie",
+    "project_category": "Fluid Systems",
+    "doc_date": "2024-09-14",
+    "validity_days": 30,
+    "payment_terms": "50% advance, 50% on completion",
+    "currency": "INR",
+    "total_excl_tax": 3619284.46,
+    "total_incl_tax": 4270755.66,
+    "line_item_count": 4,
+    "file_path": "./mock_data/email/SUP006_04_PROJ-CHARLIE.txt",
+    "anomalies": [
+      "missing_line_item_description"
+    ],
+    "notes": "missing_line_item_description",
+    "line_items": [
+      {
+        "desc": "Gate Valve PN16 2 inch SS Body",
+        "unit": "NOS",
+        "qty": 6,
+        "unit_price": 4488.39,
+        "amount": 26930.34
+      },
+      {
+        "desc": "Item as per drawing",
+        "unit": "LOT",
+        "qty": 1,
+        "unit_price": 19038.25,
+        "amount": 19038.25
+      },
+      {
+        "desc": "Centrifugal Pump 50LPS@30m Head",
+        "unit": "NOS",
+        "qty": 40,
+        "unit_price": 88071.79,
+        "amount": 3522871.6
+      },
+      {
+        "desc": "Ball Valve 3-Piece 1 inch SS316",
+        "unit": "NOS",
+        "qty": 17,
+        "unit_price": 2967.31,
+        "amount": 50444.27
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-035",
+    "doc_no": "SUP006-PROJ-DELTA-Q005",
+    "format": "scan_sim",
+    "supplier_id": "SUP006",
+    "supplier_name": "Reliable Rubber & Seals Mfg.",
+    "project_id": "PROJ-DELTA",
+    "project_name": "Project Delta",
+    "project_category": "Mechanical Overhaul",
+    "doc_date": "2024-09-28",
+    "validity_days": 60,
+    "payment_terms": "50% advance, 50% on completion",
+    "currency": "INR",
+    "total_excl_tax": 579418.55,
+    "total_incl_tax": 683713.89,
+    "line_item_count": 7,
+    "file_path": "./mock_data/scan_sim/SUP006_05_PROJ-DELTA.txt",
+    "anomalies": [
+      "missing_delivery_commitment"
+    ],
+    "notes": "missing_delivery_commitment",
+    "line_items": [
+      {
+        "desc": "V-Belt A Section Set",
+        "unit": "SET",
+        "qty": 4,
+        "unit_price": 1218.71,
+        "amount": 4874.84
+      },
+      {
+        "desc": "SKF Bearing 22222 E Spherical",
+        "unit": "NOS",
+        "qty": 28,
+        "unit_price": 8748.07,
+        "amount": 244945.96
+      },
+      {
+        "desc": "Shaft Seal Ring 60x80x10",
+        "unit": "NOS",
+        "qty": 4,
+        "unit_price": 347.65,
+        "amount": 1390.6
+      },
+      {
+        "desc": "Gearbox Oil SAE 220 GL-4 200L",
+        "unit": "DRUM",
+        "qty": 4,
+        "unit_price": 18925.0,
+        "amount": 75700.0
+      },
+      {
+        "desc": "Coupling Fluid 90mm Bore",
+        "unit": "NOS",
+        "qty": 3,
+        "unit_price": 14018.89,
+        "amount": 42056.67
+      },
+      {
+        "desc": "Alignment Laser Shaft Service",
+        "unit": "NOS",
+        "qty": 15,
+        "unit_price": 11712.55,
+        "amount": 175688.25
+      },
+      {
+        "desc": "Mechanical Seal Type 502 50mm",
+        "unit": "NOS",
+        "qty": 9,
+        "unit_price": 3862.47,
+        "amount": 34762.23
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-036",
+    "doc_no": "SUP006-PROJ-ECHO-Q006",
+    "format": "xlsx",
+    "supplier_id": "SUP006",
+    "supplier_name": "Reliable Rubber & Seals Mfg.",
+    "project_id": "PROJ-ECHO",
+    "project_name": "Project Echo",
+    "project_category": "Civil & Insulation",
+    "doc_date": "2024-10-12",
+    "validity_days": 21,
+    "payment_terms": "100% against pro-forma invoice",
+    "currency": "INR",
+    "total_excl_tax": 1439680.41,
+    "total_incl_tax": 1698822.88,
+    "line_item_count": 7,
+    "file_path": "./mock_data/xlsx/SUP006_06_PROJ-ECHO.xlsx",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "Civil Foundation Works (LS)",
+        "unit": "LS",
+        "qty": 1,
+        "unit_price": 120544.07,
+        "amount": 120544.07
+      },
+      {
+        "desc": "PUF Panel 60mm Cold Room",
+        "unit": "SQM",
+        "qty": 144.8,
+        "unit_price": 1846.88,
+        "amount": 267428.22
+      },
+      {
+        "desc": "TMT Bar Fe500D 12mm",
+        "unit": "MT",
+        "qty": 12.37,
+        "unit_price": 67899.23,
+        "amount": 839913.48
+      },
+      {
+        "desc": "Waterproofing Coat (2 layer)",
+        "unit": "SQM",
+        "qty": 147.8,
+        "unit_price": 179.33,
+        "amount": 26504.97
+      },
+      {
+        "desc": "Sand Fine River Grade",
+        "unit": "CFT",
+        "qty": 686,
+        "unit_price": 54.68,
+        "amount": 37510.48
+      },
+      {
+        "desc": "Rock Wool Slab 100mm 128kg/m3",
+        "unit": "SQM",
+        "qty": 168.1,
+        "unit_price": 705.58,
+        "amount": 118608.0
+      },
+      {
+        "desc": "Aluminium Cladding 0.5mm Stucco",
+        "unit": "SQM",
+        "qty": 67.3,
+        "unit_price": 433.45,
+        "amount": 29171.18
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-037",
+    "doc_no": "SUP007-PROJ-BRAVO-Q001R1",
+    "format": "pdf_formal",
+    "supplier_id": "SUP007",
+    "supplier_name": "Electrotech Switchgear Industries",
+    "project_id": "PROJ-BRAVO",
+    "project_name": "Project Bravo",
+    "project_category": "Electrical Infrastructure",
+    "doc_date": "2024-08-11",
+    "validity_days": 45,
+    "payment_terms": "100% against pro-forma invoice",
+    "currency": "INR",
+    "total_excl_tax": 846226.45,
+    "total_incl_tax": 998547.21,
+    "line_item_count": 5,
+    "file_path": "./mock_data/pdf/SUP007_01_PROJ-BRAVO_R1.pdf",
+    "anomalies": [],
+    "notes": "Version R1 \u2014 initial quotation",
+    "line_items": [
+      {
+        "desc": "Installation & Testing Labour",
+        "unit": "LS",
+        "qty": 1,
+        "unit_price": 45904.12,
+        "amount": 45904.12
+      },
+      {
+        "desc": "XLPE Cable 3.5Cx240sqmm Armoured",
+        "unit": "MTR",
+        "qty": 313,
+        "unit_price": 1845.33,
+        "amount": 577588.29
+      },
+      {
+        "desc": "XLPE Cable 4Cx16sqmm Armoured",
+        "unit": "MTR",
+        "qty": 474,
+        "unit_price": 322.88,
+        "amount": 153045.12
+      },
+      {
+        "desc": "Earth Pit GI Strip 50x6mm",
+        "unit": "NOS",
+        "qty": 7,
+        "unit_price": 6634.79,
+        "amount": 46443.53
+      },
+      {
+        "desc": "MCB 63A 4-Pole 10kA",
+        "unit": "NOS",
+        "qty": 7,
+        "unit_price": 3320.77,
+        "amount": 23245.39
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-038",
+    "doc_no": "SUP007-PROJ-BRAVO-Q001R2",
+    "format": "pdf_formal",
+    "supplier_id": "SUP007",
+    "supplier_name": "Electrotech Switchgear Industries",
+    "project_id": "PROJ-BRAVO",
+    "project_name": "Project Bravo",
+    "project_category": "Electrical Infrastructure",
+    "doc_date": "2024-08-26",
+    "validity_days": 45,
+    "payment_terms": "100% against pro-forma invoice",
+    "currency": "INR",
+    "total_excl_tax": 939064.13,
+    "total_incl_tax": 1108095.67,
+    "line_item_count": 5,
+    "file_path": "./mock_data/pdf/SUP007_01_PROJ-BRAVO_R2.pdf",
+    "anomalies": [
+      "price_escalation_between_versions"
+    ],
+    "notes": "ANOMALY: R2 prices 8-15% higher than R1 for same line items",
+    "line_items": [
+      {
+        "desc": "Installation & Testing Labour",
+        "unit": "LS",
+        "qty": 1,
+        "unit_price": 52238.16,
+        "amount": 52238.16
+      },
+      {
+        "desc": "XLPE Cable 3.5Cx240sqmm Armoured",
+        "unit": "MTR",
+        "qty": 313,
+        "unit_price": 2036.59,
+        "amount": 637452.67
+      },
+      {
+        "desc": "XLPE Cable 4Cx16sqmm Armoured",
+        "unit": "MTR",
+        "qty": 474,
+        "unit_price": 361.77,
+        "amount": 171478.98
+      },
+      {
+        "desc": "Earth Pit GI Strip 50x6mm",
+        "unit": "NOS",
+        "qty": 7,
+        "unit_price": 7428.51,
+        "amount": 51999.57
+      },
+      {
+        "desc": "MCB 63A 4-Pole 10kA",
+        "unit": "NOS",
+        "qty": 7,
+        "unit_price": 3699.25,
+        "amount": 25894.75
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-039",
+    "doc_no": "SUP007-PROJ-DELTA-Q002R1",
+    "format": "pdf_formal",
+    "supplier_id": "SUP007",
+    "supplier_name": "Electrotech Switchgear Industries",
+    "project_id": "PROJ-DELTA",
+    "project_name": "Project Delta",
+    "project_category": "Mechanical Overhaul",
+    "doc_date": "2024-08-31",
+    "validity_days": 30,
+    "payment_terms": "30% advance, 70% against delivery",
+    "currency": "INR",
+    "total_excl_tax": 94395.48,
+    "total_incl_tax": 111386.67,
+    "line_item_count": 4,
+    "file_path": "./mock_data/pdf/SUP007_02_PROJ-DELTA_R1.pdf",
+    "anomalies": [],
+    "notes": "Version R1 \u2014 initial quotation",
+    "line_items": [
+      {
+        "desc": "SKF Bearing 6205-2RS Deep Groove",
+        "unit": "NOS",
+        "qty": 12,
+        "unit_price": 475.74,
+        "amount": 5708.88
+      },
+      {
+        "desc": "SKF Bearing 22222 E Spherical",
+        "unit": "NOS",
+        "qty": 7,
+        "unit_price": 8565.82,
+        "amount": 59960.74
+      },
+      {
+        "desc": "Overhaul Labour (Rotating Equip)",
+        "unit": "MH",
+        "qty": 20,
+        "unit_price": 647.29,
+        "amount": 12945.8
+      },
+      {
+        "desc": "Vibration Analysis Service",
+        "unit": "NOS",
+        "qty": 2,
+        "unit_price": 7890.03,
+        "amount": 15780.06
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-040",
+    "doc_no": "SUP007-PROJ-DELTA-Q002R2",
+    "format": "pdf_formal",
+    "supplier_id": "SUP007",
+    "supplier_name": "Electrotech Switchgear Industries",
+    "project_id": "PROJ-DELTA",
+    "project_name": "Project Delta",
+    "project_category": "Mechanical Overhaul",
+    "doc_date": "2024-09-18",
+    "validity_days": 30,
+    "payment_terms": "30% advance, 70% against delivery",
+    "currency": "INR",
+    "total_excl_tax": 104595.24,
+    "total_incl_tax": 123422.38,
+    "line_item_count": 4,
+    "file_path": "./mock_data/pdf/SUP007_02_PROJ-DELTA_R2.pdf",
+    "anomalies": [
+      "price_escalation_between_versions"
+    ],
+    "notes": "ANOMALY: R2 prices 8-15% higher than R1 for same line items",
+    "line_items": [
+      {
+        "desc": "SKF Bearing 6205-2RS Deep Groove",
+        "unit": "NOS",
+        "qty": 12,
+        "unit_price": 526.04,
+        "amount": 6312.48
+      },
+      {
+        "desc": "SKF Bearing 22222 E Spherical",
+        "unit": "NOS",
+        "qty": 7,
+        "unit_price": 9430.52,
+        "amount": 66013.64
+      },
+      {
+        "desc": "Overhaul Labour (Rotating Equip)",
+        "unit": "MH",
+        "qty": 20,
+        "unit_price": 716.41,
+        "amount": 14328.2
+      },
+      {
+        "desc": "Vibration Analysis Service",
+        "unit": "NOS",
+        "qty": 2,
+        "unit_price": 8970.46,
+        "amount": 17940.92
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-041",
+    "doc_no": "SUP007-PROJ-BRAVO-Q003R1",
+    "format": "pdf_formal",
+    "supplier_id": "SUP007",
+    "supplier_name": "Electrotech Switchgear Industries",
+    "project_id": "PROJ-BRAVO",
+    "project_name": "Project Bravo",
+    "project_category": "Electrical Infrastructure",
+    "doc_date": "2024-09-25",
+    "validity_days": 30,
+    "payment_terms": "30% advance, 70% against delivery",
+    "currency": "INR",
+    "total_excl_tax": 11052287.55,
+    "total_incl_tax": 13041699.31,
+    "line_item_count": 5,
+    "file_path": "./mock_data/pdf/SUP007_03_PROJ-BRAVO_R1.pdf",
+    "anomalies": [],
+    "notes": "Version R1 \u2014 initial quotation",
+    "line_items": [
+      {
+        "desc": "MCB 63A 4-Pole 10kA",
+        "unit": "NOS",
+        "qty": 15,
+        "unit_price": 3336.84,
+        "amount": 50052.6
+      },
+      {
+        "desc": "Voltage Stabilizer 50KVA",
+        "unit": "NOS",
+        "qty": 39,
+        "unit_price": 93660.25,
+        "amount": 3652749.75
+      },
+      {
+        "desc": "LT Panel 415V 630A ACB Incomer",
+        "unit": "NOS",
+        "qty": 40,
+        "unit_price": 182819.98,
+        "amount": 7312799.2
+      },
+      {
+        "desc": "PVC Conduit 25mm ISI Marked",
+        "unit": "MTR",
+        "qty": 201,
+        "unit_price": 44.32,
+        "amount": 8908.32
+      },
+      {
+        "desc": "Cable Tray Perforated 300x50mm",
+        "unit": "MTR",
+        "qty": 56,
+        "unit_price": 496.03,
+        "amount": 27777.68
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-042",
+    "doc_no": "SUP007-PROJ-BRAVO-Q003R2",
+    "format": "pdf_formal",
+    "supplier_id": "SUP007",
+    "supplier_name": "Electrotech Switchgear Industries",
+    "project_id": "PROJ-BRAVO",
+    "project_name": "Project Bravo",
+    "project_category": "Electrical Infrastructure",
+    "doc_date": "2024-10-10",
+    "validity_days": 30,
+    "payment_terms": "30% advance, 70% against delivery",
+    "currency": "INR",
+    "total_excl_tax": 12465312.91,
+    "total_incl_tax": 14709069.23,
+    "line_item_count": 5,
+    "file_path": "./mock_data/pdf/SUP007_03_PROJ-BRAVO_R2.pdf",
+    "anomalies": [
+      "price_escalation_between_versions"
+    ],
+    "notes": "ANOMALY: R2 prices 8-15% higher than R1 for same line items",
+    "line_items": [
+      {
+        "desc": "MCB 63A 4-Pole 10kA",
+        "unit": "NOS",
+        "qty": 15,
+        "unit_price": 3607.01,
+        "amount": 54105.15
+      },
+      {
+        "desc": "Voltage Stabilizer 50KVA",
+        "unit": "NOS",
+        "qty": 39,
+        "unit_price": 102567.53,
+        "amount": 4000133.67
+      },
+      {
+        "desc": "LT Panel 415V 630A ACB Incomer",
+        "unit": "NOS",
+        "qty": 40,
+        "unit_price": 209252.19,
+        "amount": 8370087.6
+      },
+      {
+        "desc": "PVC Conduit 25mm ISI Marked",
+        "unit": "MTR",
+        "qty": 201,
+        "unit_price": 50.81,
+        "amount": 10212.81
+      },
+      {
+        "desc": "Cable Tray Perforated 300x50mm",
+        "unit": "MTR",
+        "qty": 56,
+        "unit_price": 549.53,
+        "amount": 30773.68
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-043",
+    "doc_no": "SUP007-PROJ-ECHO-Q004",
+    "format": "pdf_formal",
+    "supplier_id": "SUP007",
+    "supplier_name": "Electrotech Switchgear Industries",
+    "project_id": "PROJ-ECHO",
+    "project_name": "Project Echo",
+    "project_category": "Civil & Insulation",
+    "doc_date": "2024-10-20",
+    "validity_days": 30,
+    "payment_terms": "30% advance, 70% against delivery",
+    "currency": "INR",
+    "total_excl_tax": 829027.73,
+    "total_incl_tax": 978252.72,
+    "line_item_count": 8,
+    "file_path": "./mock_data/pdf/SUP007_04_PROJ-ECHO.pdf",
+    "anomalies": [],
+    "notes": "",
+    "line_items": [
+      {
+        "desc": "Sand Fine River Grade",
+        "unit": "CFT",
+        "qty": 881,
+        "unit_price": 56.52,
+        "amount": 49794.12
+      },
+      {
+        "desc": "Civil Foundation Works (LS)",
+        "unit": "LS",
+        "qty": 1,
+        "unit_price": 122743.29,
+        "amount": 122743.29
+      },
+      {
+        "desc": "Scaffolding Erection Labour",
+        "unit": "SQM",
+        "qty": 41.5,
+        "unit_price": 96.54,
+        "amount": 4006.41
+      },
+      {
+        "desc": "Rock Wool Slab 100mm 128kg/m3",
+        "unit": "SQM",
+        "qty": 86.9,
+        "unit_price": 679.35,
+        "amount": 59035.52
+      },
+      {
+        "desc": "OPC 53 Grade Cement",
+        "unit": "BAG",
+        "qty": 234,
+        "unit_price": 376.84,
+        "amount": 88180.56
+      },
+      {
+        "desc": "TMT Bar Fe500D 12mm",
+        "unit": "MT",
+        "qty": 5.62,
+        "unit_price": 65809.83,
+        "amount": 369851.24
+      },
+      {
+        "desc": "Aluminium Cladding 0.5mm Stucco",
+        "unit": "SQM",
+        "qty": 52.2,
+        "unit_price": 438.53,
+        "amount": 22891.27
+      },
+      {
+        "desc": "M20 Grade Concrete (RMC)",
+        "unit": "CUM",
+        "qty": 18.5,
+        "unit_price": 6082.45,
+        "amount": 112525.32
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-044",
+    "doc_no": "SUP008-PROJ-ALPHA-Q001",
+    "format": "pdf_informal",
+    "supplier_id": "SUP008",
+    "supplier_name": "PrimeCast Foundry & Forge",
+    "project_id": "PROJ-ALPHA",
+    "project_name": "Project Alpha",
+    "project_category": "Structural Fabrication",
+    "doc_date": "2024-08-05",
+    "validity_days": 7,
+    "payment_terms": "Net 30 days from invoice date",
+    "currency": "INR",
+    "total_excl_tax": 4865485.67,
+    "total_incl_tax": 5741273.09,
+    "line_item_count": 6,
+    "file_path": "./mock_data/pdf/SUP008_01_PROJ-ALPHA.pdf",
+    "anomalies": [],
+    "notes": "Low price tier \u2014 competitive rates",
+    "line_items": [
+      {
+        "desc": "MS Channel 150x75mm",
+        "unit": "MT",
+        "qty": 10.49,
+        "unit_price": 69845.43,
+        "amount": 732678.56
+      },
+      {
+        "desc": "MS I-Beam 200mm (ISMB 200)",
+        "unit": "MT",
+        "qty": 14.57,
+        "unit_price": 73429.5,
+        "amount": 1069867.81
+      },
+      {
+        "desc": "MS Plate 8mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 23.87,
+        "unit_price": 64010.94,
+        "amount": 1527941.14
+      },
+      {
+        "desc": "Grating Platform 25x3 Serrated",
+        "unit": "SQM",
+        "qty": 36.7,
+        "unit_price": 2577.83,
+        "amount": 94606.36
+      },
+      {
+        "desc": "MS Angle 65x65x6mm",
+        "unit": "MT",
+        "qty": 13.62,
+        "unit_price": 64675.39,
+        "amount": 880878.81
+      },
+      {
+        "desc": "MS Plate 6mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 9.25,
+        "unit_price": 60487.89,
+        "amount": 559512.98
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-045",
+    "doc_no": "SUP008-PROJ-DELTA-Q002",
+    "format": "csv",
+    "supplier_id": "SUP008",
+    "supplier_name": "PrimeCast Foundry & Forge",
+    "project_id": "PROJ-DELTA",
+    "project_name": "Project Delta",
+    "project_category": "Mechanical Overhaul",
+    "doc_date": "2024-08-17",
+    "validity_days": 7,
+    "payment_terms": "50% advance, 50% on completion",
+    "currency": "INR",
+    "total_excl_tax": 260385.68,
+    "total_incl_tax": 307255.1,
+    "line_item_count": 4,
+    "file_path": "./mock_data/csv/SUP008_02_PROJ-DELTA.csv",
+    "anomalies": [],
+    "notes": "Low price tier \u2014 competitive rates",
+    "line_items": [
+      {
+        "desc": "Mechanical Seal Type 502 50mm",
+        "unit": "NOS",
+        "qty": 24,
+        "unit_price": 3385.93,
+        "amount": 81262.32
+      },
+      {
+        "desc": "Overhaul Labour (Rotating Equip)",
+        "unit": "MH",
+        "qty": 43,
+        "unit_price": 595.36,
+        "amount": 25600.48
+      },
+      {
+        "desc": "Alignment Laser Shaft Service",
+        "unit": "NOS",
+        "qty": 13,
+        "unit_price": 10645.6,
+        "amount": 138392.8
+      },
+      {
+        "desc": "Vibration Analysis Service",
+        "unit": "NOS",
+        "qty": 2,
+        "unit_price": 7565.04,
+        "amount": 15130.08
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-046",
+    "doc_no": "SUP008-PROJ-ALPHA-Q003",
+    "format": "pdf_informal",
+    "supplier_id": "SUP008",
+    "supplier_name": "PrimeCast Foundry & Forge",
+    "project_id": "PROJ-ALPHA",
+    "project_name": "Project Alpha",
+    "project_category": "Structural Fabrication",
+    "doc_date": "2024-08-27",
+    "validity_days": 7,
+    "payment_terms": "Net 45 days from invoice date",
+    "currency": "INR",
+    "total_excl_tax": 6308965.92,
+    "total_incl_tax": 7444579.79,
+    "line_item_count": 8,
+    "file_path": "./mock_data/pdf/SUP008_03_PROJ-ALPHA.pdf",
+    "anomalies": [],
+    "notes": "Low price tier \u2014 competitive rates",
+    "line_items": [
+      {
+        "desc": "MS Channel 150x75mm",
+        "unit": "MT",
+        "qty": 22.82,
+        "unit_price": 68604.66,
+        "amount": 1565558.34
+      },
+      {
+        "desc": "MS Plate 8mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 10.8,
+        "unit_price": 64633.97,
+        "amount": 698046.88
+      },
+      {
+        "desc": "MS Plate 6mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 7.65,
+        "unit_price": 60789.42,
+        "amount": 465039.06
+      },
+      {
+        "desc": "Primer & Painting (2 coat)",
+        "unit": "SQM",
+        "qty": 133.5,
+        "unit_price": 112.16,
+        "amount": 14973.36
+      },
+      {
+        "desc": "Anchor Bolts M20x400 Grade 8.8",
+        "unit": "NOS",
+        "qty": 34,
+        "unit_price": 75.15,
+        "amount": 2555.1
+      },
+      {
+        "desc": "MS Angle 65x65x6mm",
+        "unit": "MT",
+        "qty": 24.81,
+        "unit_price": 67474.08,
+        "amount": 1674031.92
+      },
+      {
+        "desc": "MS I-Beam 200mm (ISMB 200)",
+        "unit": "MT",
+        "qty": 23.1,
+        "unit_price": 70598.96,
+        "amount": 1630835.98
+      },
+      {
+        "desc": "Structural Steel Fabrication Labour",
+        "unit": "MT",
+        "qty": 15.61,
+        "unit_price": 16523.08,
+        "amount": 257925.28
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-047",
+    "doc_no": "SUP008-PROJ-DELTA-Q004",
+    "format": "xlsx",
+    "supplier_id": "SUP008",
+    "supplier_name": "PrimeCast Foundry & Forge",
+    "project_id": "PROJ-DELTA",
+    "project_name": "Project Delta",
+    "project_category": "Mechanical Overhaul",
+    "doc_date": "2024-09-09",
+    "validity_days": 30,
+    "payment_terms": "30% advance, 70% against delivery",
+    "currency": "INR",
+    "total_excl_tax": 436684.38,
+    "total_incl_tax": 515287.57,
+    "line_item_count": 4,
+    "file_path": "./mock_data/xlsx/SUP008_04_PROJ-DELTA.xlsx",
+    "anomalies": [],
+    "notes": "Low price tier \u2014 competitive rates",
+    "line_items": [
+      {
+        "desc": "SKF Bearing 6205-2RS Deep Groove",
+        "unit": "NOS",
+        "qty": 23,
+        "unit_price": 424.4,
+        "amount": 9761.2
+      },
+      {
+        "desc": "Coupling Fluid 90mm Bore",
+        "unit": "NOS",
+        "qty": 11,
+        "unit_price": 12894.3,
+        "amount": 141837.3
+      },
+      {
+        "desc": "Alignment Laser Shaft Service",
+        "unit": "NOS",
+        "qty": 10,
+        "unit_price": 11373.74,
+        "amount": 113737.4
+      },
+      {
+        "desc": "Vibration Analysis Service",
+        "unit": "NOS",
+        "qty": 24,
+        "unit_price": 7139.52,
+        "amount": 171348.48
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-048",
+    "doc_no": "SUP008-PROJ-ALPHA-Q005",
+    "format": "email",
+    "supplier_id": "SUP008",
+    "supplier_name": "PrimeCast Foundry & Forge",
+    "project_id": "PROJ-ALPHA",
+    "project_name": "Project Alpha",
+    "project_category": "Structural Fabrication",
+    "doc_date": "2024-09-23",
+    "validity_days": 60,
+    "payment_terms": "Net 45 days from invoice date",
+    "currency": "INR",
+    "total_excl_tax": 2441971.13,
+    "total_incl_tax": 2881525.93,
+    "line_item_count": 7,
+    "file_path": "./mock_data/email/SUP008_05_PROJ-ALPHA.txt",
+    "anomalies": [],
+    "notes": "Low price tier \u2014 competitive rates",
+    "line_items": [
+      {
+        "desc": "Grating Platform 25x3 Serrated",
+        "unit": "SQM",
+        "qty": 45.3,
+        "unit_price": 2637.52,
+        "amount": 119479.66
+      },
+      {
+        "desc": "MS Plate 6mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 4.04,
+        "unit_price": 63269.17,
+        "amount": 255607.45
+      },
+      {
+        "desc": "MS Plate 12mm IS 2062 E350",
+        "unit": "MT",
+        "qty": 3.11,
+        "unit_price": 69205.62,
+        "amount": 215229.48
+      },
+      {
+        "desc": "MS Channel 150x75mm",
+        "unit": "MT",
+        "qty": 15.3,
+        "unit_price": 67794.49,
+        "amount": 1037255.7
+      },
+      {
+        "desc": "Primer & Painting (2 coat)",
+        "unit": "SQM",
+        "qty": 118.5,
+        "unit_price": 109.22,
+        "amount": 12942.57
+      },
+      {
+        "desc": "Structural Steel Fabrication Labour",
+        "unit": "MT",
+        "qty": 17.03,
+        "unit_price": 16174.23,
+        "amount": 275447.14
+      },
+      {
+        "desc": "MS Plate 8mm IS 2062 E250",
+        "unit": "MT",
+        "qty": 8.48,
+        "unit_price": 62029.38,
+        "amount": 526009.14
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-049",
+    "doc_no": "SUP008-PROJ-DELTA-Q006",
+    "format": "pdf_informal",
+    "supplier_id": "SUP008",
+    "supplier_name": "PrimeCast Foundry & Forge",
+    "project_id": "PROJ-DELTA",
+    "project_name": "Project Delta",
+    "project_category": "Mechanical Overhaul",
+    "doc_date": "2024-10-06",
+    "validity_days": 7,
+    "payment_terms": "30% advance, 70% against delivery",
+    "currency": "INR",
+    "total_excl_tax": 716932.44,
+    "total_incl_tax": 845980.28,
+    "line_item_count": 5,
+    "file_path": "./mock_data/pdf/SUP008_06_PROJ-DELTA.pdf",
+    "anomalies": [],
+    "notes": "Low price tier \u2014 competitive rates",
+    "line_items": [
+      {
+        "desc": "Mechanical Seal Type 502 50mm",
+        "unit": "NOS",
+        "qty": 32,
+        "unit_price": 3579.54,
+        "amount": 114545.28
+      },
+      {
+        "desc": "V-Belt A Section Set",
+        "unit": "SET",
+        "qty": 4,
+        "unit_price": 1119.19,
+        "amount": 4476.76
+      },
+      {
+        "desc": "SKF Bearing 22222 E Spherical",
+        "unit": "NOS",
+        "qty": 24,
+        "unit_price": 7729.09,
+        "amount": 185498.16
+      },
+      {
+        "desc": "Coupling Fluid 90mm Bore",
+        "unit": "NOS",
+        "qty": 32,
+        "unit_price": 12354.03,
+        "amount": 395328.96
+      },
+      {
+        "desc": "SKF Bearing 6205-2RS Deep Groove",
+        "unit": "NOS",
+        "qty": 38,
+        "unit_price": 449.56,
+        "amount": 17083.28
+      }
+    ]
+  },
+  {
+    "doc_id": "DOC-050",
+    "doc_no": "SUP008-PROJ-ECHO-Q007",
+    "format": "csv",
+    "supplier_id": "SUP008",
+    "supplier_name": "PrimeCast Foundry & Forge",
+    "project_id": "PROJ-ECHO",
+    "project_name": "Project Echo",
+    "project_category": "Civil & Insulation",
+    "doc_date": "2024-10-18",
+    "validity_days": 7,
+    "payment_terms": "Net 30 days from invoice date",
+    "currency": "INR",
+    "total_excl_tax": 504071.83,
+    "total_incl_tax": 594804.76,
+    "line_item_count": 4,
+    "file_path": "./mock_data/csv/SUP008_07_PROJ-ECHO.csv",
+    "anomalies": [],
+    "notes": "Low price tier \u2014 competitive rates",
+    "line_items": [
+      {
+        "desc": "Sand Fine River Grade",
+        "unit": "CFT",
+        "qty": 632,
+        "unit_price": 51.93,
+        "amount": 32819.76
+      },
+      {
+        "desc": "M20 Grade Concrete (RMC)",
+        "unit": "CUM",
+        "qty": 16.1,
+        "unit_price": 5411.9,
+        "amount": 87131.59
+      },
+      {
+        "desc": "PUF Panel 60mm Cold Room",
+        "unit": "SQM",
+        "qty": 160.3,
+        "unit_price": 1690.88,
+        "amount": 271048.06
+      },
+      {
+        "desc": "Civil Foundation Works (LS)",
+        "unit": "LS",
+        "qty": 1,
+        "unit_price": 113072.42,
+        "amount": 113072.42
+      }
+    ]
+  }
+]

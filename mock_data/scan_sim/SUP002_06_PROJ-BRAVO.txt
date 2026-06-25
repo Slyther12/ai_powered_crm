@@ -1,0 +1,33 @@
+APEX FASTENERS & HARDWARE CO.
+47 Industrial Estate, Faridabad 121001
+Tel : +91-11-2345-6789  |  priya.s@apexfasteners.com
+
+QUOTATION
+Ref No  : SUP002-PROJ-BRAVO-Q006
+Date    : 05-10-2024
+Valid   : 60 Days
+
+To : Nexusolve Manufacturing Pvt Ltd
+Proj : Project Bravo / PROJ-BRAVO
+
+S.No  | Description                              | Unit | Qty  | Rate(INR)  | Amt(INR)
+------------------------------------------------------------------------------------------
+1     | XLPE Cable 3.5Cx240sqmm Armoured         | MTR  | 214  |     1.632.75 |   349,408.50
+2     | Earth Pit GI Strip 50x6mm                | NOS  | 22   |     5.744.66 |   126,382.52
+3     | Busbar Trunking 800A Aluminium           | MTR  | 368  |    11.299.91 | 4.158.366.88
+4     | LT Panel 415V 630A ACB Incomer           | NOS  | 40   |   161,231.23 | 6.449.249.2O
+5     | XLPE Cable 4Cx16sqmm Armoured            | MTR  | 108  |       290.91 |    31,418.28
+6     | Installation & Testing Labour            | LS   | 1    |    42.321.68 |    42,321.68
+------------------------------------------------------------------------------------------
+                                                             SubTotal : 11,157,147.O6
+                                                             GST 18%  : 2.008.286.47
+                                                             TOTAL    : 13,165,433.53
+
+Payment : Net 30 days from invoice date
+Delivery : 14 Days from PO
+Validity : 60 Days
+
+For Apex Fasteners & Hardware Co.
+
+(Authorised Signatory)
+[STAMP]

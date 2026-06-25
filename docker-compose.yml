@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mount directories for persistent data, uploads, and logs
+      - ./data:/app/data
+      - ./uploads:/app/uploads
+      - ./logs:/app/logs
+      - ./mock_data:/app/mock_data
+    env_file:
+      - .env
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        - VITE_API_URL=http://localhost:8000
+    ports:
+      # Map the Nginx container port 80 to 5173 on the host
+      - "5173:80"
+    depends_on:
+      - backend

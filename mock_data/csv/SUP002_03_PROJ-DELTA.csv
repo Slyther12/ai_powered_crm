@@ -1,0 +1,21 @@
+QUOTATION,SUP002-PROJ-DELTA-Q003
+Supplier,Apex Fasteners & Hardware Co.
+Contact,Priya Sharma
+Email,priya.s@apexfasteners.com
+Date,2024-08-23
+Valid Until,2024-10-07
+Project,Project Delta
+Project ID,PROJ-DELTA
+Currency,INR
+Payment Terms,100% against pro-forma invoice
+Delivery Days,14
+
+SNo,Description,Unit,Quantity,Unit Price,Amount
+1,Shaft Seal Ring 60x80x10,NOS,31,326.98,10136.38
+2,Overhaul Labour (Rotating Equip),MH,91,599.77,54579.07
+3,SKF Bearing 22222 E Spherical,NOS,33,8003.79,264125.07
+4,Coupling Fluid 90mm Bore,NOS,37,12996.8,480881.6
+,,,,,
+,,,,Sub-Total,809722.12
+,,,,GST 18%,145749.98
+,,,,Grand Total,955472.10

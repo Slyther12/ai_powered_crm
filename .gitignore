@@ -1,0 +1,38 @@
+# Environment variables
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Data and logs (do not commit actual databases and sensitive documents)
+data/
+uploads/
+logs/
+outputs/
+*.sqlite3
+*.db
+chroma_db/
+
+# Frontend (Node)
+node_modules/
+frontend/dist/
+.npm/
+npm-debug.log
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+.DS_Store
